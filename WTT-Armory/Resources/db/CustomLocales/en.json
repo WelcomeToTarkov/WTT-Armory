@@ -4745,5 +4745,14 @@
   "69555c7739fb0a1a6f0ad132 description": "The standard rear sight for A-545 automatic rifles, manufactured by Izhmash.",
   "69555c7739fb0a1a6f0ad134 name": "A-545 Flash Hider",
   "69555c7739fb0a1a6f0ad134 shortName": "A-545 FH",
-  "69555c7739fb0a1a6f0ad134 description": "The standard-issue 5.45x39 flash hider for the A-545 automatic rifle"
+  "69555c7739fb0a1a6f0ad134 description": "The standard-issue 5.45x39 flash hider for the A-545 automatic rifle",
+  "6958447bfc5cad58acf95c0f name": "HK USC .45 ACP carbine",
+  "6958447bfc5cad58acf95c0f shortName": "USC",
+  "6958447bfc5cad58acf95c0f description": "The USC or Universal Self-loading Carbine is a semi-automatic-only variant of the UMP designed for civilian use. It was created following the Assault Weapons Ban of 1994 in the United States and was introduced in 2000. Changes from the original UMP include a thumbhole type stock/grip instead of the pistol grip of the UMP, a longer barrel without the flash suppressor, a magazine limited to 10 rounds, and a semi-automatic-only trigger group and action.",
+  "6958448831c055f568f7c1d3 name": "HK USC .45 ACP 10-round magazine",
+  "6958448831c055f568f7c1d3 shortName": "USC",
+  "6958448831c055f568f7c1d3 description": "10-round .45 ACP magazine for HK USC carbine.",
+  "695844d6ef501d713eb50cc2 name": "HK USC .45 ACP 16 inch barrel",
+  "695844d6ef501d713eb50cc2 shortName": "USC 16\"",
+  "695844d6ef501d713eb50cc2 description": "Standard barrel for the HK USC chambered in .45 ACP."
 }

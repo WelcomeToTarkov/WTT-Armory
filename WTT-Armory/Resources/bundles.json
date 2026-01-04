@@ -6541,7 +6541,7 @@
       ]
     },
     {
-        "key": "Mods/A545/a545_muzzle.bundle",
+        "key": "WeaponA545/a545_muzzle.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",
@@ -6549,7 +6549,7 @@
         ]
     },
     {
-        "key": "Mods/A545/a545_rear.bundle",
+        "key": "WeaponA545/a545_rear.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",
@@ -6557,7 +6557,7 @@
         ]
     },
     {
-        "key": "Mods/A545/a545_stock.bundle",
+        "key": "WeaponA545/a545_stock.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",
@@ -6565,7 +6565,7 @@
         ]
     },
     {
-        "key": "Mods/A545/weapon_a545_container.bundle",
+        "key": "WeaponA545/weapon_a545_container.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",

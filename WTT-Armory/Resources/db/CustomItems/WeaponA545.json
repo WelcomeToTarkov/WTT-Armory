@@ -293,7 +293,7 @@
         ],
         "bFirerate": 900,
         "SingleFireRate": 450,
-        "Ergonomics": 40,
+        "Ergonomics": 54,
         "RecoilForceBack": 247,
         "RecoilForceUp": 82,
         "HeatfactorByShot": 1.37,

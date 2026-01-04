@@ -4941,6 +4941,36 @@
     "SKIER": {
         "items": [
             {
+                "_id": "695889844b6c74ccbe0b7c5d",
+                "_tpl": "6958447bfc5cad58acf95c0f",
+                "upd": {
+                    "Repairable": {
+                        "MaxDurability": 100,
+                        "Durability": 100
+                    },
+                    "FireMode": {
+                        "FireMode": "single"
+                    },
+                    "UnlimitedCount": true,
+                    "StackObjectsCount": 999999,
+                    "BuyRestrictionMax": 0
+                },
+                "parentId": "hideout",
+                "slotId": "hideout"
+            },
+            {
+                "_id": "69588990c31773590474b8f3",
+                "_tpl": "6958448831c055f568f7c1d3",
+                "slotId": "mod_magazine",
+                "parentId": "695889844b6c74ccbe0b7c5d"
+            },
+            {
+                "_id": "695889acb729bdc3d9116e23",
+                "_tpl": "695844d6ef501d713eb50cc2",
+                "slotId": "mod_barrel",
+                "parentId": "695889844b6c74ccbe0b7c5d"
+            },
+            {
                 "_id": "686b0a9f4fc34a4f90043b00",
                 "_tpl": "66e88596febdcf9daade16a8",
                 "upd": {
@@ -6647,6 +6677,17 @@
                 }
             },
             {
+                "_id": "69588a414870252f944706db",
+                "_tpl": "6958448831c055f568f7c1d3",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "UnlimitedCount": true,
+                    "StackObjectsCount": 999999,
+                    "BuyRestrictionMax": 0
+                }
+            },
+            {
                 "_id": "68b8dcd3e0b28366ca6cc6a8",
                 "_tpl": "6881c0fa3be04213015b7e34",
                 "parentId": "hideout",
@@ -6815,6 +6856,14 @@
             }
         ],
         "barter_scheme": {
+            "695889844b6c74ccbe0b7c5d": [
+                [
+                    {
+                        "count": 17605,
+                        "_tpl": "5449016a4bdc2d6f028b456f"
+                    }
+                ]
+            ],
             "686a79c2eae8121d638938af": [
                 [
                     {
@@ -7331,6 +7380,14 @@
                 }
             ]
             ],
+            "69588a414870252f944706db": [
+                [
+                    {
+                        "count": 1656,
+                        "_tpl": "5449016a4bdc2d6f028b456f"
+                    }
+                ]
+            ],
             "693c8ff4f510c54dc88c7570": [
                 [
                     {
@@ -7403,7 +7460,9 @@
             "68b8dcc8170183f669c1bca4": 3,
             "68b8dcd3e0b28366ca6cc6a8": 3,
             "694330019d3a9f79e89e688f": 2,
-            "693c8ff4f510c54dc88c7570": 2
+            "693c8ff4f510c54dc88c7570": 2,
+            "695889844b6c74ccbe0b7c5d": 1,
+            "69588a414870252f944706db": 1
         }
     },
     "PRAPOR": {
