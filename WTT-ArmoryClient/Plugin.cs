@@ -8,7 +8,7 @@ using WTTArmoryClient.Properties;
 
 namespace WTTArmoryClient
 {
-    [BepInPlugin("com.wtt.armory", "WTT-Armory", "2.0.0")]
+    [BepInPlugin("com.wtt.armory", "WTT-Armory", "2.0.2")]
     public class Plugin : BaseUnityPlugin
     {
         public static GameWorld GameWorld;
@@ -81,7 +81,7 @@ namespace WTTArmoryClient
             // Update Hyperburst logic
             if (You == null)
             {
-                if (GameWorld?.MainPlayer is { } mainPlayer && mainPlayer.IsYourPlayer)
+                if (GameWorld?.MainPlayer is { IsYourPlayer: true } mainPlayer)
                 {
                     You = mainPlayer;
                 }
