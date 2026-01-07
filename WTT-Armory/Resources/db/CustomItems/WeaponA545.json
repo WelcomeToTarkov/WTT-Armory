@@ -8,6 +8,7 @@
             "path": "WeaponA545/weapon_a545_container.bundle",
             "rcid": ""
         },
+            "Width": 4,
         "Slots": [
         {
             "_name": "mod_muzzle",
