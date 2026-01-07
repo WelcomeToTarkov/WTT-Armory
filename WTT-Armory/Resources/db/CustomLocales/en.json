@@ -2223,15 +2223,6 @@
   "68e0717d51eff1d09e8a2eba Name": "Valmet M78 picatinny rail mount",
   "68e0717d51eff1d09e8a2eba ShortName": "M78 Rail",
   "68e0717d51eff1d09e8a2eba Description": "A picatinny rail mount for the M78 that allows for the mounting of optics.",
-  "69066bef905ee9e06c462009 Name": "Magpul Masada 5.56x45 assault rifle",
-  "69066bef905ee9e06c462009 ShortName": "Masada",
-  "69066bef905ee9e06c462009 Description": "",
-  "6906a1aeef59ca68d128e8b7 Name": "Magpul Masada 5.56x45 assault rifle (FDE)",
-  "6906a1aeef59ca68d128e8b7 ShortName": "Masada FDE",
-  "6906a1aeef59ca68d128e8b7 Description": "",
-  "69161a1d649768162e8219ef Name": "Custom Magpul Masada .300 assault rifle",
-  "69161a1d649768162e8219ef ShortName": "Masada 300",
-  "69161a1d649768162e8219ef Description": "",
   "69066cdb8f5104ba9d130c5f Name": "Magpul Masada 5.56x45 14.5 inch barrel",
   "69066cdb8f5104ba9d130c5f ShortName": "Masada 14.5\"",
   "69066cdb8f5104ba9d130c5f Description": "A 14.5 inch (370mm) barrel for the Magpul Masada 5.56x45mm rifle.",
@@ -4754,5 +4745,8 @@
   "6958448831c055f568f7c1d3 description": "10-round .45 ACP magazine for HK USC carbine.",
   "695844d6ef501d713eb50cc2 name": "HK USC .45 ACP 16 inch barrel",
   "695844d6ef501d713eb50cc2 shortName": "USC 16\"",
-  "695844d6ef501d713eb50cc2 description": "Standard barrel for the HK USC chambered in .45 ACP."
+  "695844d6ef501d713eb50cc2 description": "Standard barrel for the HK USC chambered in .45 ACP.",
+  "695ab544a219218449041700 name": "Kalashnikov AK-107 5.45x39 Assault Rifle",
+  "695ab544a219218449041700 shortName": "AK-107",
+  "695ab544a219218449041700 description": "The AK-107 is a Russian 5.45x39mm assault rifle developed from the AK-100-series. It features a 'balanced' operating system, similar to that used in the AEK-971. In this case, the designation AK does not indicate Avtomat Kalashnikova but Alexandrov/Kalashnikov. The revised designation indicates the incorporation of a new gas system, designed by Youriy Alexandrov, for Kalashnikov-pattern rifles."
 }
