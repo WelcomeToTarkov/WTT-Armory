@@ -8,6 +8,7 @@
             "path": "WeaponA545/weapon_a545_container.bundle",
             "rcid": ""
         },
+            "Width": 4,
         "Slots": [
         {
             "_name": "mod_muzzle",
@@ -293,7 +294,7 @@
         ],
         "bFirerate": 900,
         "SingleFireRate": 450,
-        "Ergonomics": 40,
+        "Ergonomics": 54,
         "RecoilForceBack": 247,
         "RecoilForceUp": 82,
         "HeatfactorByShot": 1.37,

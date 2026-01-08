@@ -1,0 +1,344 @@
+{
+  "6958447bfc5cad58acf95c0f": {
+    "itemTplToClone": "5fc3e272f8b6a877a729eac5",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponUSC/weapon_hk_usc_container.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 54,
+      "Weight": 1.66,
+      "Foldable": false,
+      "defMagType": "6958448831c055f568f7c1d3",
+      "weapFireType": [
+        "single"
+      ],
+      "Slots": [
+        {
+          "_name": "mod_magazine",
+          "_id": "6958447856a3b9dc958dad83",
+          "_parent": "6958447bfc5cad58acf95c0f",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "6958448831c055f568f7c1d3"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "69584475bdd0d1441aa02853",
+          "_parent": "6958447bfc5cad58acf95c0f",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "577d128124597739d65d0e56",
+                  "58d2664f86f7747fec5834f6",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "626bb8532c923541184624b4",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "695844715577284dc135977d",
+          "_parent": "6958447bfc5cad58acf95c0f",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5fc3e4a27283c4046c5814ab",
+                  "6130c3dffaa1272e43151c7d",
+                  "695844d6ef501d713eb50cc2"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_000",
+          "_id": "6958446ec24f3383fba2c2a0",
+          "_parent": "6958447bfc5cad58acf95c0f",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5fc53954f8b6a877a729eaeb"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "69584467240bdf2014198a0a",
+          "_parent": "6958447bfc5cad58acf95c0f",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5fc5396e900b1d5091531e72"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "6958446bb9c05c3656400787",
+          "_parent": "",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5fc5396e900b1d5091531e72"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK USC .45 ACP carbine",
+        "shortName": "USC",
+        "description": "The USC or Universal Self-loading Carbine is a semi-automatic-only variant of the UMP designed for civilian use. It was created following the Assault Weapons Ban of 1994 in the United States and was introduced in 2000. Changes from the original UMP include a thumbhole type stock/grip instead of the pistol grip of the UMP, a longer barrel without the flash suppressor, a magazine limited to 10 rounds, and a semi-automatic-only trigger group and action."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 21142,
+    "handbookPriceRoubles": 16930,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_changeWeaponName": false,
+        "_encyclopedia": "6958447bfc5cad58acf95c0f",
+        "_id": "695846c219d14ea1740bc966",
+        "_items": [
+          {
+            "_id": "695846c614439a07db175126",
+            "_tpl": "6958447bfc5cad58acf95c0f",
+            "upd": {
+              "Repairable": {
+                "MaxDurability": 100,
+                "Durability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "695846d45254527e8aa47482",
+            "_tpl": "6958448831c055f568f7c1d3",
+            "parentId": "695846c614439a07db175126",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "695846cbf8c21d5e6393a7bf",
+            "_tpl": "695844d6ef501d713eb50cc2",
+            "parentId": "695846c614439a07db175126",
+            "slotId": "mod_barrel"
+          }
+        ],
+        "_name": "HKUSCStandard",
+        "_parent": "695846c614439a07db175126",
+        "_type": "Preset"
+      }
+    ],
+    "traders": {},
+    "masterySections": [
+      {
+        "Level2": 375,
+        "Level3": 500,
+        "Name": "UMP45",
+        "Templates": [
+          "6958447bfc5cad58acf95c0f"
+        ]
+      }
+    ]
+  },
+  "6958448831c055f568f7c1d3": {
+    "itemTplToClone": "5fc3e466187fea44d52eda90",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponUSC/usc_magazine.bundle",
+        "rcid": ""
+      },
+      "Cartridges": [
+        {
+          "_id": "6958462b6509bda4d46a3628",
+          "_max_count": 10,
+          "_name": "cartridges",
+          "_parent": "6958448831c055f568f7c1d3",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5e81f423763d9f754677bf2e",
+                  "5efb0cabfb3e451d70735af5",
+                  "5efb0fc6aeb21837e749c801",
+                  "5efb0d4f4bc50b58e81710f3",
+                  "5ea2a8e200685063ec28c05a"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK USC .45 ACP 10-round magazine",
+        "shortName": "USC",
+        "description": "10-round .45 ACP magazine for HK USC carbine."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 3991,
+    "handbookPriceRoubles": 1890,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "695844d6ef501d713eb50cc2": {
+    "itemTplToClone": "6698c8b7710a4525fe0e9e55",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponUSC/usc_barrel.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "Slots": [],
+      "Weight": 0.299
+    },
+    "locales": {
+      "en": {
+        "name": "HK USC .45 ACP 16 inch barrel",
+        "shortName": "USC 16\"",
+        "description": "Standard barrel for the HK USC chambered in .45 ACP."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "fleaPriceRoubles": 15990,
+    "handbookPriceRoubles": 6600,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {},
+    "staticLootContainers": []
+  }
+}

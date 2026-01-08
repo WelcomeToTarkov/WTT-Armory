@@ -1534,6 +1534,31 @@
           "_required": false
         },
         {
+          "_id": "6957f95ba040ed74e1ebc716",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "69101c13a363be1fac6e260e",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
           "_id": "69101c099528979f92b22b13",
           "_mergeSlotWithChildren": false,
           "_name": "mod_sight_front",
@@ -1742,6 +1767,31 @@
                   "03f6c86c56945862820e1006",
                   "2322ee962f6c77a1284abc1e",
                   "5ae3d18efa17cbd51e898ced"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        },
+        {
+          "_id": "6957f96f75e38ee0b432093a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_tactical",
+          "_parent": "69101cf471c52daba356641c",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
                 ]
               }
             ]

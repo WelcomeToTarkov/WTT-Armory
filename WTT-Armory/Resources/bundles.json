@@ -24,6 +24,37 @@
       ]
     },
     {
+      "key": "WeaponUSC/weapon_hk_usc_container.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "WeaponUSC/usc_barrel.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "WeaponUSC/usc_magazine.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "Ammo/50_bmg_m1_incendiary.bundle",
       "dependencyKeys": [
         "shaders",
@@ -6510,7 +6541,7 @@
       ]
     },
     {
-        "key": "Mods/A545/a545_muzzle.bundle",
+        "key": "WeaponA545/a545_muzzle.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",
@@ -6518,7 +6549,7 @@
         ]
     },
     {
-        "key": "Mods/A545/a545_rear.bundle",
+        "key": "WeaponA545/a545_rear.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",
@@ -6526,7 +6557,7 @@
         ]
     },
     {
-        "key": "Mods/A545/a545_stock.bundle",
+        "key": "WeaponA545/a545_stock.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",
@@ -6534,7 +6565,22 @@
         ]
     },
     {
-        "key": "Mods/A545/weapon_a545_container.bundle",
+        "key": "WeaponA545/weapon_a545_container.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponAK107/weapon_ak107_container.bundle",
         "dependencyKeys": [
             "shaders",
             "cubemaps",

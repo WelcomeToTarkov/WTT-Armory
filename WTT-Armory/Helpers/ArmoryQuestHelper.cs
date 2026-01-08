@@ -3,11 +3,12 @@ using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
+using WTTServerCommonLib.Helpers;
 
 namespace WTTArmory.Helpers
 {
     [Injectable]
-    public class ArmoryQuestHelper(DatabaseService  databaseService, ISptLogger<ArmoryQuestHelper> logger)
+    public class ArmoryQuestHelper(DatabaseService  databaseService, ISptLogger<ArmoryQuestHelper> logger, QuestHelper questHelper)
     {
 
         // Define weapon IDs
@@ -87,29 +88,29 @@ namespace WTTArmory.Helpers
             // ====================== PRAPOR QUESTS ======================
 
             // Punisher Part 4 (59ca264786f77445a80ed044)
-            AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", [
+            questHelper.AddWeaponsToKillCondition(quests, "59ca264786f77445a80ed044", [
                 BROWNING_AUTO5, BROWNING_AUTO5_BOSS, SERBU_SUPER_SHORTY
             ]);
 
             // Punisher Part 6 (59ca2eb686f77445a80ed049)
-            AddWeaponsToKillCondition(quests, "59ca2eb686f77445a80ed049", [
+            questHelper.AddWeaponsToKillCondition(quests, "59ca2eb686f77445a80ed049", [
                 SVD_DRAGUNOV, SVD_DRAGUNOV_GREEN
             ]);
 
             // Mall Cop (64e7b99017ab941a6f7bf9d7)
-            AddWeaponsToKillCondition(quests, "64e7b99017ab941a6f7bf9d7", [
+            questHelper.AddWeaponsToKillCondition(quests, "64e7b99017ab941a6f7bf9d7", [
                 BERETTA_92FS, CZ75B, CZ75B_OMEGA, HI_POINT_C9, HK_UCP,
                 LAR_GRIZZLY_MK5, LAR_GRIZZLY_MK5_GOLD, LAR_GRIZZLY_MK5_STAINLESS,
                 ARMORY_PRODIGY, SR2_UDAV, STACCATO_XC, WILSON_COMBAT_EDC_X9, MK23, PMM12, PITVIPERCHROME, PITVIPER, RUGER57, PSAROCK
             ]);
 
             // Tickets, Please (64e7b9a4aac4cd0a726562cb)
-            AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
+            questHelper.AddWeaponsToKillCondition(quests, "64e7b9a4aac4cd0a726562cb", [
                 CZ_SCORPION_EVO, MINEBEA_PM9, RO991, UMP9
             ]);
 
             // District Patrol (64e7b9bffd30422ed03dad38)
-            AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
+            questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
                 AEK971, AEK973, BOFORS_AK5C, BOFORS_AK5D, AN94, AN94_KIROV,
                 HK417, HK_G3, HK_XM8, IWI_CARMEL, IWI_CARMEL_FDE, IWI_TAVOR_X95,
                 IWI_TAVOR_X95_FDE, KNIGHTS_ARMAMENT_PDW, PATRIOT, REMINGTON_ACR,
@@ -121,36 +122,36 @@ namespace WTTArmory.Helpers
             // ====================== SKIER QUESTS ======================
 
             // Stirrup (596b455186f77457cb50eccb)
-            AddWeaponsToKillCondition(quests, "596b455186f77457cb50eccb", [
+            questHelper.AddWeaponsToKillCondition(quests, "596b455186f77457cb50eccb", [
                 BERETTA_92FS, CZ75B, CZ75B_OMEGA, HI_POINT_C9, HK_UCP,
                 LAR_GRIZZLY_MK5, LAR_GRIZZLY_MK5_GOLD, LAR_GRIZZLY_MK5_STAINLESS,
                 ARMORY_PRODIGY, SR2_UDAV, STACCATO_XC, WILSON_COMBAT_EDC_X9, MK23, PMM12, PITVIPERCHROME, PITVIPER, RUGER57, PSAROCK
             ]);
 
             // Silent Caliber (5c0bc91486f7746ab41857a2)
-            AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", [
+            questHelper.AddWeaponsToKillCondition(quests, "5c0bc91486f7746ab41857a2", [
                 BROWNING_AUTO5, BROWNING_AUTO5_BOSS, SERBU_SUPER_SHORTY
             ]);
 
             // Setup (5c1234c286f77406fa13baeb)
-            AddWeaponsToKillCondition(quests, "5c1234c286f77406fa13baeb", [
+            questHelper.AddWeaponsToKillCondition(quests, "5c1234c286f77406fa13baeb", [
                 BROWNING_AUTO5, BROWNING_AUTO5_BOSS, SERBU_SUPER_SHORTY
             ]);
 
             // Connections Up North (6764174c86addd02bc033d68)
-            AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
+            questHelper.AddWeaponsToKillCondition(quests, "6764174c86addd02bc033d68", [
                 REMINGTON_MSR, CHEYTAC_M200, CHEYTAC_M200_FDE, CHEYTAC_M200_BOSS,  M1894, M700_XL_ACTION, M700_XL_ACTION_NORMA, AXMC_300_WINMAG, HENRY_BIG_BOY, SV98M
             ]);
 
             // ====================== PEACEKEEPER QUESTS ======================
 
             // Spa Tour Part 1 (5a03153686f77442d90e2171)
-            AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", [
+            questHelper.AddWeaponsToKillCondition(quests, "5a03153686f77442d90e2171", [
                 BROWNING_AUTO5, BROWNING_AUTO5_BOSS, SERBU_SUPER_SHORTY
             ]);
 
             // Worst Job (63a9b229813bba58a50c9ee5)
-            AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
+            questHelper.AddWeaponsToKillCondition(quests, "63a9b229813bba58a50c9ee5", [
                 WAGES_OF_SIN_AR15, WAGES_OF_SIN_AR15_RED, WAGES_OF_SIN_AR15_FDE
             ]);
 
@@ -162,81 +163,36 @@ namespace WTTArmory.Helpers
             };
 
             // Tarkov Shooter Part 1-8
-            AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", tarkovShooterWeapons); // Part 1
-            AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", tarkovShooterWeapons); // Part 2
-            AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", tarkovShooterWeapons); // Part 3
-            AddWeaponsToKillCondition(quests, "5bc480a686f7741af0342e29", tarkovShooterWeapons); // Part 4
-            AddWeaponsToKillCondition(quests, "5bc4826c86f774106d22d88b", tarkovShooterWeapons); // Part 5
-            AddWeaponsToKillCondition(quests, "5bc4836986f7740c0152911c", tarkovShooterWeapons); // Part 6
-            AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", tarkovShooterWeapons); // Part 7
-            AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", tarkovShooterWeapons); // Part 1
+            questHelper.AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", tarkovShooterWeapons); // Part 2
+            questHelper.AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", tarkovShooterWeapons); // Part 3
+            questHelper.AddWeaponsToKillCondition(quests, "5bc480a686f7741af0342e29", tarkovShooterWeapons); // Part 4
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4826c86f774106d22d88b", tarkovShooterWeapons); // Part 5
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4836986f7740c0152911c", tarkovShooterWeapons); // Part 6
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", tarkovShooterWeapons); // Part 7
+            questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
 
             // Claustrophobia (669fa3979b0ce3feae01a130)
-            AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
+            questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
                 BROWNING_AUTO5, BROWNING_AUTO5_BOSS, SERBU_SUPER_SHORTY
             ]);
 
             // ====================== MECHANIC QUESTS ======================
 
             // Psycho Sniper (5c0be13186f7746f016734aa)
-            AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
+            questHelper.AddWeaponsToKillCondition(quests, "5c0be13186f7746f016734aa", [
                 REMINGTON_MSR, CHEYTAC_M200, CHEYTAC_M200_FDE, CHEYTAC_M200_BOSS,  M1894, M700_XL_ACTION, M700_XL_ACTION_NORMA, AXMC_300_WINMAG, HENRY_BIG_BOY, SV98M
             ]);
 
             // Shooter Born in Heaven (5c0bde0986f77479cf22c2f8)
-            AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
+            questHelper.AddWeaponsToKillCondition(quests, "5c0bde0986f77479cf22c2f8", [
                 REMINGTON_MSR, CHEYTAC_M200, CHEYTAC_M200_FDE, CHEYTAC_M200_BOSS,  M1894, M700_XL_ACTION, M700_XL_ACTION_NORMA, AXMC_300_WINMAG, HENRY_BIG_BOY, SV98M
             ]);
 
             // Make Amends Equipment (6261482fa4eb80027c4f2e11)
-            AddWeaponsToFindOrHandoverCondition(quests, "6261482fa4eb80027c4f2e11", [
+            questHelper.AddWeaponsToFindOrHandoverCondition(quests, "6261482fa4eb80027c4f2e11", [
                 SVD_DRAGUNOV, SVD_DRAGUNOV_GREEN
             ]);
-        }
-
-        private void AddWeaponsToKillCondition(Dictionary<MongoId, Quest> quests, string questId, string[] weaponIds)
-        {
-            if (!quests.TryGetValue(questId, out var quest) || quest.Conditions.AvailableForFinish == null)
-                return;
-
-            foreach (var condition in quest.Conditions.AvailableForFinish)
-            {
-                if (condition is { ConditionType: "CounterCreator", Counter.Conditions: not null })
-                {
-                    foreach (var counterCond in condition.Counter.Conditions)
-                    {
-                        if (counterCond is { ConditionType: "Kills", Weapon: not null })
-                        {
-                            foreach (var weaponId in weaponIds)
-                            {
-                                counterCond.Weapon.Add(weaponId);
-                                
-                            }
-                        }
-                    }
-                }
-            }
-        }
-
-        private void AddWeaponsToFindOrHandoverCondition(Dictionary<MongoId, Quest> quests, string questId, string[] weaponIds)
-        {
-            if (!quests.TryGetValue(questId, out var quest) || quest.Conditions.AvailableForFinish == null)
-                return;
-
-            foreach (var condition in quest.Conditions.AvailableForFinish)
-            {
-                if ((condition.ConditionType == "FindItem" || condition.ConditionType == "HandoverItem") && condition.Target != null)
-                {
-                    foreach (var weaponId in weaponIds)
-                    {
-                        if (condition.Target.List != null && !condition.Target.List.Contains(weaponId))
-                        {
-                            condition.Target.List.Add(weaponId); 
-                            
-                        }
-                    }
-                }
-            }
         }
     }
 }
