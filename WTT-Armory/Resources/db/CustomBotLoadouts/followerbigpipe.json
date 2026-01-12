@@ -5,7 +5,7 @@
 		},
 		"weaponMods": {
 			"mod_bipod": 25,
-			"mod_scope_001": 100,
+			"mod_scope_000": 100,
 			"mod_stock_000": 100,
 			"mod_barrel_000": 100,
 			"mod_handguard": 100,
@@ -46,12 +46,6 @@
 				"mod_magazine": [
 					"55802d5f4bdc2dac148b458e"
 				],
-				"mod_sight_rear": [
-					"691226c24afdbfd9b59f5092"
-				],
-				"mod_sight_front": [
-					"6912276c0545f6fef92580ca"
-				],
 				"mod_handguard": [
 					"691610a32a16d7557fc9bf3d"
 				],
@@ -65,10 +59,16 @@
 				]
 			},
 			"69101cf471c52daba356641c": {
-				"mod_scope": [
-					"5d2da1e948f035477b1ce2ba"
-				]
-			},
+              "mod_scope": [
+                "5d2da1e948f035477b1ce2ba"
+              ],
+              "mod_sight_rear": [
+                "691226c24afdbfd9b59f5092"
+              ],
+              "mod_sight_front": [
+                "6912276c0545f6fef92580ca"
+              ]
+            },
 			"6868d249cdee524f8c0ba45f": {
 				"mod_barrel": [
 					"6868d414e67828905d765b10"
@@ -140,7 +140,7 @@
 				"mod_bipod": [
 					"684741ff7650c89e76c13e2c"
 				],
-				"mod_scope_001": [
+				"mod_scope_000": [
 					"59db7eed86f77461f8380365"
 				],
 				"mod_stock": [
