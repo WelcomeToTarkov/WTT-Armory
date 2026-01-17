@@ -2437,7 +2437,8 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
-      "mod_scope"
+      "mod_scope",
+      "mod_scope_000"
     ],
     "fleaPriceRoubles": 9000,
     "handbookPriceRoubles": 8964,
@@ -2524,9 +2525,9 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
-      "mod_muzzle"
+      "mod_scope"
     ],
     "fleaPriceRoubles": 1340,
     "handbookPriceRoubles": 867,
