@@ -10,7 +10,7 @@
       },
       "Height": 1,
       "Width": 4,
-      "Weight": 1.334,
+      "Weight": 1.710,
       "Slots": [
         {
           "_name": "mod_magazine",
@@ -243,7 +243,7 @@
       },
       "Height": 1,
       "Width": 4,
-      "Weight": 1.334,
+      "Weight": 1.710,
       "Slots": [
         {
           "_name": "mod_magazine",
@@ -466,7 +466,7 @@
     ]
   },
   "696801005966cfdf3708c742": {
-    "itemTplToClone": "55d355e64bdc2d962f8b4569",
+    "itemTplToClone": "62e7c72df68e7a0676050c77",
     "parentId": "55818a304bdc2db5418b457d",
     "handbookParentId": "5b5f764186f77447ec5d7714",
     "overrideProperties": {
@@ -474,47 +474,48 @@
         "path": "WeaponF2000/f2000_receiver.bundle",
         "rcid": ""
       },
-    "Slots": [
-      {
-        "_name": "mod_barrel",
-        "_id": "62e7c79cda5b3b57e805e2cb",
-        "_parent": "62e7c72df68e7a0676050c77",
-        "_props": {
-          "filters": [
-            {
-              "Filter": [
-                "6967fd67fc321bda050f0281",
-                "6968098d5966cfdf3708c752",
-                "69680a1b5966cfdf3708c754"
-              ],
-              "Shift": 0
-            }
-          ]
+      "Weight": 0.230,
+      "Slots": [
+        {
+          "_name": "mod_barrel",
+          "_id": "62e7c79cda5b3b57e805e2cb",
+          "_parent": "62e7c72df68e7a0676050c77",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6967fd67fc321bda050f0281",
+                  "6968098d5966cfdf3708c752",
+                  "69680a1b5966cfdf3708c754"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
         },
-        "_required": true,
-        "_mergeSlotWithChildren": false,
-        "_proto": "55d30c4c4bdc2db4468b457e"
-      },
-      {
-        "_name": "mod_mount",
-        "_id": "62e7c79cda5b3b57e805e2cc",
-        "_parent": "62e7c72df68e7a0676050c77",
-        "_props": {
-          "filters": [
-            {
-              "Filter": [
-                "696801005966cfdf3708c740",
-                "6968029b5966cfdf3708c74a"
-              ],
-              "Shift": 0
-            }
-          ]
-        },
-        "_required": false,
-        "_mergeSlotWithChildren": false,
-        "_proto": "55d30c4c4bdc2db4468b457e"
-      }
-    ]
+        {
+          "_name": "mod_mount",
+          "_id": "62e7c79cda5b3b57e805e2cc",
+          "_parent": "62e7c72df68e7a0676050c77",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696801005966cfdf3708c740",
+                  "6968029b5966cfdf3708c74a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
     },
     "locales": {
       "en": {
@@ -529,8 +530,8 @@
       "mod_reciever"
     ],
     "addtoTraders": true,
-    "fleaPriceRoubles": 44572,
-    "handbookPriceRoubles": 29111,
+    "fleaPriceRoubles": 3800,
+    "handbookPriceRoubles": 1023,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -560,8 +561,8 @@
           },
           "barters": [
             {
-              "count": 34000,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 59,
+              "_tpl": "MONEY_DOLLARS"
             }
           ]
         }
@@ -579,6 +580,13 @@
       },
       "ExtraSizeLeft": 1,
       "ExtraSizeRight": 0,
+      "Velocity": -8,
+      "CenterOfImpact": 0.048,
+      "CoolFactor": 1.03,
+      "DeviationCurve": 1.35,
+      "DeviationMax": 23,
+      "DurabilityBurnModificator": 1,
+      "HeatFactor": 1.02,
       "Slots": [
         {
           "_name": "mod_muzzle",
@@ -669,7 +677,7 @@
       }
     ],
     "traders": {
-      "SKIER": {
+      "PEACEKEEPER": {
         "6967fd67fc321bda050f0282": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -678,7 +686,7 @@
           },
           "barters": [
             {
-              "count": 374,
+              "count": 485,
               "_tpl": "MONEY_DOLLARS"
             }
           ]
@@ -765,7 +773,7 @@
       "mod_barrel"
     ],
     "addtoTraders": true,
-    "fleaPriceRoubles": 24000,
+    "fleaPriceRoubles": 31567,
     "handbookPriceRoubles": 19642,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
@@ -787,7 +795,7 @@
       }
     ],
     "traders": {
-      "SKIER": {
+      "PEACEKEEPER": {
         "6968098d5966cfdf3708c753": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -796,7 +804,7 @@
           },
           "barters": [
             {
-              "count": 374,
+              "count": 515,
               "_tpl": "MONEY_DOLLARS"
             }
           ]
@@ -815,6 +823,13 @@
       },
       "ExtraSizeLeft": 0,
       "ExtraSizeRight": 0,
+      "Velocity": -8,
+      "CenterOfImpact": 0.058,
+      "CoolFactor": 1.03,
+      "DeviationCurve": 1.35,
+      "DeviationMax": 23,
+      "DurabilityBurnModificator": 0.94,
+      "HeatFactor": 1.02,
       "Slots": [
         {
           "_name": "mod_muzzle",
@@ -872,9 +887,9 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 5.56x45 13 inch Barrel",
+        "name": "FN F2000 5.56x45 14 inch Barrel",
         "shortName": "F2000",
-        "description": "A 13 inch barrel for the FN F2000."
+        "description": "A 14 inch barrel for the FN F2000."
       }
     },
     "addtoInventorySlots": [],
@@ -923,15 +938,17 @@
     }
   },
   "696801005966cfdf3708c740": {
-    "itemTplToClone": "5649af884bdc2d1b2b8b4589",
-    "parentId": "55818a304bdc2db5418b457d",
-    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "itemTplToClone": "62ebba1fb658e07ef9082b5a",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
         "path": "WeaponF2000/f2000_rail.bundle",
         "rcid": ""
       },
+      "Width": 2,
+      "Weight": 0.189,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
       "Slots": [
@@ -1061,8 +1078,8 @@
   "modSlot": [
       "mod_reciever"
     ],
-    "fleaPriceRoubles": 7760,
-    "handbookPriceRoubles": 5705,
+    "fleaPriceRoubles": 3800,
+    "handbookPriceRoubles": 2134,
     "addtoTraders": true,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -1096,7 +1113,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "PRAPOR": {
+      "PEACEKEEPER": {
         "696801005966cfdf3708c741": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -1105,8 +1122,8 @@
           },
           "barters": [
             {
-              "count": 13456,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 61,
+              "_tpl": "MONEY_DOLLARS"
             }
           ]
         }
@@ -1122,7 +1139,7 @@
     ]
   },
   "696801b85966cfdf3708c744": {
-    "itemTplToClone": "5c0e2f5cd174af02a012cfc9",
+    "itemTplToClone": "637f57a68d137b27f70c4968",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -1130,6 +1147,9 @@
         "path": "WeaponF2000/f2000_standard_handguard.bundle",
         "rcid": ""
       },
+      "Weight": 0.249,
+      "Recoil": -9,
+      "Ergonomics": 8,
       "ExtraSizeLeft": 0,
       "ExtraSizeDown": 1,
       "Slots": [
@@ -1148,8 +1168,8 @@
       "mod_handguard"
     ],
     "addtoTraders": true,
-    "fleaPriceRoubles": 19657,
-    "handbookPriceRoubles": 13200,
+    "fleaPriceRoubles": 8954,
+    "handbookPriceRoubles": 6531,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -1179,7 +1199,7 @@
           },
           "barters": [
             {
-              "count": 240,
+              "count": 81,
               "_tpl": "MONEY_DOLLARS"
             }
           ]
@@ -1197,138 +1217,140 @@
         "rcid": ""
       },
       "ExtraSizeDown": 1,
-        "Slots": [
-          {
-            "_name": "mod_tactical_000",
-            "_id": "55f57a5d4bdc2d972b8b4571",
-            "_parent": "55d459824bdc2d892f8b4573",
-            "_props": {
-              "filters": [
-                {
-                  "Filter": [
-                "5a800961159bd4315e3a1657",
-                "57fd23e32459772d0805bcf1",
-                "544909bb4bdc2d6f028b4577",
-                "5c06595c0db834001a66af6c",
-                "5cc9c20cd7f00c001336c65d",
-                "5d2369418abbc306c62e0c80",
-                "5b07dd285acfc4001754240d",
-                "56def37dd2720bec348b456a",
-                "5a7b483fe899ef0016170d15",
-                "61605d88ffa6e502ac5e7eeb",
-                "5a5f1ce64f39f90b401987bc",
-                "560d657b4bdc2da74d8b4572",
-                "5b3a337e5acfc4704b4a19a0",
-                "5c5952732e2216398b5abda2",
-                "57d17e212459775a1179a0f5",
-                "6267c6396b642f77f56f5c1c",
-                "6272370ee4013c5d7e31f418",
-                "6272379924e29f06af4d5ecb",
-                "626becf9582c3e319310b837",
-                "644a3df63b0b6f03e101e065",
-                "646f6322f43d0c5d62063715"
-                  ],
-                  "Shift": 0
-                }
-              ]
-            },
-            "_required": false,
-            "_mergeSlotWithChildren": false,
-            "_proto": "55d30c4c4bdc2db4468b457e"
+      "Recoil": -7,
+      "Ergonomics": 6,
+      "Slots": [
+        {
+          "_name": "mod_tactical_000",
+          "_id": "55f57a5d4bdc2d972b8b4571",
+          "_parent": "55d459824bdc2d892f8b4573",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+              "5a800961159bd4315e3a1657",
+              "57fd23e32459772d0805bcf1",
+              "544909bb4bdc2d6f028b4577",
+              "5c06595c0db834001a66af6c",
+              "5cc9c20cd7f00c001336c65d",
+              "5d2369418abbc306c62e0c80",
+              "5b07dd285acfc4001754240d",
+              "56def37dd2720bec348b456a",
+              "5a7b483fe899ef0016170d15",
+              "61605d88ffa6e502ac5e7eeb",
+              "5a5f1ce64f39f90b401987bc",
+              "560d657b4bdc2da74d8b4572",
+              "5b3a337e5acfc4704b4a19a0",
+              "5c5952732e2216398b5abda2",
+              "57d17e212459775a1179a0f5",
+              "6267c6396b642f77f56f5c1c",
+              "6272370ee4013c5d7e31f418",
+              "6272379924e29f06af4d5ecb",
+              "626becf9582c3e319310b837",
+              "644a3df63b0b6f03e101e065",
+              "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
           },
-          {
-            "_name": "mod_tactical_001",
-            "_id": "5c3f46b62e221602b66cd67d",
-            "_parent": "55d459824bdc2d892f8b4573",
-            "_props": {
-              "filters": [
-                {
-                  "Filter": [
-                "5a800961159bd4315e3a1657",
-                "57fd23e32459772d0805bcf1",
-                "544909bb4bdc2d6f028b4577",
-                "5c06595c0db834001a66af6c",
-                "5cc9c20cd7f00c001336c65d",
-                "5d2369418abbc306c62e0c80",
-                "5b07dd285acfc4001754240d",
-                "56def37dd2720bec348b456a",
-                "5a7b483fe899ef0016170d15",
-                "61605d88ffa6e502ac5e7eeb",
-                "5a5f1ce64f39f90b401987bc",
-                "560d657b4bdc2da74d8b4572",
-                "5b3a337e5acfc4704b4a19a0",
-                "5c5952732e2216398b5abda2",
-                "57d17e212459775a1179a0f5",
-                "6267c6396b642f77f56f5c1c",
-                "6272370ee4013c5d7e31f418",
-                "6272379924e29f06af4d5ecb",
-                "626becf9582c3e319310b837",
-                "644a3df63b0b6f03e101e065",
-                "646f6322f43d0c5d62063715"
-                  ],
-                  "Shift": 0
-                }
-              ]
-            },
-            "_required": false,
-            "_mergeSlotWithChildren": false,
-            "_proto": "55d30c4c4bdc2db4468b457e"
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_001",
+          "_id": "5c3f46b62e221602b66cd67d",
+          "_parent": "55d459824bdc2d892f8b4573",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+              "5a800961159bd4315e3a1657",
+              "57fd23e32459772d0805bcf1",
+              "544909bb4bdc2d6f028b4577",
+              "5c06595c0db834001a66af6c",
+              "5cc9c20cd7f00c001336c65d",
+              "5d2369418abbc306c62e0c80",
+              "5b07dd285acfc4001754240d",
+              "56def37dd2720bec348b456a",
+              "5a7b483fe899ef0016170d15",
+              "61605d88ffa6e502ac5e7eeb",
+              "5a5f1ce64f39f90b401987bc",
+              "560d657b4bdc2da74d8b4572",
+              "5b3a337e5acfc4704b4a19a0",
+              "5c5952732e2216398b5abda2",
+              "57d17e212459775a1179a0f5",
+              "6267c6396b642f77f56f5c1c",
+              "6272370ee4013c5d7e31f418",
+              "6272379924e29f06af4d5ecb",
+              "626becf9582c3e319310b837",
+              "644a3df63b0b6f03e101e065",
+              "646f6322f43d0c5d62063715"
+                ],
+                "Shift": 0
+              }
+            ]
           },
-          {
-            "_name": "mod_foregrip",
-            "_id": "637f57b78d137b27f70c496d",
-            "_parent": "637f57b78d137b27f70c496a",
-            "_props": {
-              "filters": [
-                {
-                  "Filter": [
-                    "5c7fc87d2e221644f31c0298",
-                    "5cda9bcfd7f00c0c0b53e900",
-                    "59f8a37386f7747af3328f06",
-                    "5a7dbfc1159bd40016548fde",
-                    "619386379fb0c665d5490dbe",
-                    "5c87ca002e221600114cb150",
-                    "588226d124597767ad33f787",
-                    "588226dd24597767ad33f789",
-                    "588226e62459776e3e094af7",
-                    "588226ef24597767af46e39c",
-                    "59fc48e086f77463b1118392",
-                    "5fce0cf655375d18a253eff0",
-                    "5cf4fb76d7f00c065703d3ac",
-                    "5b057b4f5acfc4771e1bd3e9",
-                    "5c791e872e2216001219c40a",
-                    "558032614bdc2de7118b4585",
-                    "58c157be86f77403c74b2bb6",
-                    "5f6340d3ca442212f4047eb2",
-                    "591af28e86f77414a27a9e1d",
-                    "5c1cd46f2e22164bef5cfedb",
-                    "5c1bc4812e22164bef5cfde7",
-                    "5c1bc5612e221602b5429350",
-                    "5c1bc5af2e221602b412949b",
-                    "5c1bc5fb2e221602b1779b32",
-                    "5c1bc7432e221602b412949d",
-                    "5c1bc7752e221602b1779b34",
-                    "64806bdd26c80811d408d37a",
-                    "64807a29e5ffe165600abc97",
-                    "648067db042be0705c0b3009",
-                    "65169d5b30425317755f8e25",
-                    "655dccfdbdcc6b5df71382b6",
-                    "655df24fdf80b12750626d0a",
-                    "661e52e29c8b4dadef008577",
-                    "661e53149c8b4dadef008579",
-                    "58c157c886f774032749fb06",
-                    "661e52415be02310ed07a07a",
-                    "661e52b5b099f32c28003586"
-                  ],
-                  "Shift": 0
-                }
-              ]
-            },
-            "_required": false,
-            "_mergeSlotWithChildren": false,
-            "_proto": "55d30c4c4bdc2db4468b457e"
-          }
-        ]
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "637f57b78d137b27f70c496d",
+          "_parent": "637f57b78d137b27f70c496a",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5c7fc87d2e221644f31c0298",
+                  "5cda9bcfd7f00c0c0b53e900",
+                  "59f8a37386f7747af3328f06",
+                  "5a7dbfc1159bd40016548fde",
+                  "619386379fb0c665d5490dbe",
+                  "5c87ca002e221600114cb150",
+                  "588226d124597767ad33f787",
+                  "588226dd24597767ad33f789",
+                  "588226e62459776e3e094af7",
+                  "588226ef24597767af46e39c",
+                  "59fc48e086f77463b1118392",
+                  "5fce0cf655375d18a253eff0",
+                  "5cf4fb76d7f00c065703d3ac",
+                  "5b057b4f5acfc4771e1bd3e9",
+                  "5c791e872e2216001219c40a",
+                  "558032614bdc2de7118b4585",
+                  "58c157be86f77403c74b2bb6",
+                  "5f6340d3ca442212f4047eb2",
+                  "591af28e86f77414a27a9e1d",
+                  "5c1cd46f2e22164bef5cfedb",
+                  "5c1bc4812e22164bef5cfde7",
+                  "5c1bc5612e221602b5429350",
+                  "5c1bc5af2e221602b412949b",
+                  "5c1bc5fb2e221602b1779b32",
+                  "5c1bc7432e221602b412949d",
+                  "5c1bc7752e221602b1779b34",
+                  "64806bdd26c80811d408d37a",
+                  "64807a29e5ffe165600abc97",
+                  "648067db042be0705c0b3009",
+                  "65169d5b30425317755f8e25",
+                  "655dccfdbdcc6b5df71382b6",
+                  "655df24fdf80b12750626d0a",
+                  "661e52e29c8b4dadef008577",
+                  "661e53149c8b4dadef008579",
+                  "58c157c886f774032749fb06",
+                  "661e52415be02310ed07a07a",
+                  "661e52b5b099f32c28003586"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
     },
     "locales": {
       "en": {
@@ -1343,8 +1365,8 @@
       "mod_handguard"
     ],
     "addtoTraders": true,
-    "fleaPriceRoubles": 19657,
-    "handbookPriceRoubles": 13200,
+    "fleaPriceRoubles": 10200,
+    "handbookPriceRoubles": 9456,
     "addtoStaticLootContainers": true,
     "staticLootContainers": [
       {
@@ -1374,7 +1396,7 @@
           },
           "barters": [
             {
-              "count": 240,
+              "count": 159,
               "_tpl": "MONEY_DOLLARS"
             }
           ]
@@ -1391,7 +1413,10 @@
         "path": "WeaponF2000/f2000_monolith_handguard.bundle",
         "rcid": ""
       },
-      "ExtraSizeDown": 1,
+        "ExtraSizeDown": 1,
+        "Weight": 0.339,
+        "Recoil": -12,
+        "Ergonomics": 10,
         "Slots": [
           {
             "_name": "mod_tactical_000",
@@ -1571,6 +1596,7 @@
         "rcid": ""
       },
       "Weight": 0.034,
+      "Ergonomics": 1,
       "Slots": [],
       "ExaminedByDefault": true
     },
@@ -1655,7 +1681,8 @@
         "path": "WeaponF2000/f2000_slovenian_rear.bundle",
         "rcid": ""
       },
-      "Weight": 0.034,
+      "Weight": 0.038,
+      "Ergonomics": 2,
       "Slots": [],
       "ExaminedByDefault": true
     },
@@ -1819,18 +1846,16 @@
     ]
   },
   "6968029b5966cfdf3708c74a": {
-    "itemTplToClone": "5649af884bdc2d1b2b8b4589",
-    "parentId": "55818a304bdc2db5418b457d",
-    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "itemTplToClone": "62e7c8f91cd3fde4d503d690",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
       "ExaminedByDefault": true,
       "Prefab": {
         "path": "WeaponF2000/f2000_slovenian_rail.bundle",
         "rcid": ""
       },
-      "ConflictingItems": [
-        "696801b85966cfdf3708c746"
-      ],
+      "Weight": 0.210,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false,
       "Slots": [
@@ -2004,8 +2029,8 @@
   "modSlot": [
       "mod_reciever"
     ],
-    "fleaPriceRoubles": 7760,
-    "handbookPriceRoubles": 5705,
+    "fleaPriceRoubles": 4000,
+    "handbookPriceRoubles": 2934,
     "addtoTraders": true,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2039,7 +2064,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "PRAPOR": {
+      "PEACEKEEPER": {
         "6968029b5966cfdf3708c74b": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -2048,8 +2073,8 @@
           },
           "barters": [
             {
-              "count": 13456,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 62,
+              "_tpl": "MONEY_DOLLARS"
             }
           ]
         }
@@ -2075,7 +2100,7 @@
       },
       "Slots": [],
       "ExaminedByDefault": true,
-      "Ergonomics": 2,
+      "Ergonomics": 3,
       "Weight": 0.098,
       "sightModType": "iron"
     },
@@ -2398,6 +2423,7 @@
       "ZoomSensitivity": 0,
       "sightModType": "optic",
       "SightingRange": 600,
+      "Weight": 0.34,
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
     },
@@ -2413,8 +2439,8 @@
     "modSlot": [
       "mod_scope"
     ],
-    "fleaPriceRoubles": 1340,
-    "handbookPriceRoubles": 867,
+    "fleaPriceRoubles": 9000,
+    "handbookPriceRoubles": 8964,
     "addtoTraders": true,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2448,7 +2474,7 @@
     "addWeaponPreset": false,
     "weaponPresets": [],
     "traders": {
-      "SKIER": {
+      "PEACEKEEPER": {
         "696958420d2309811a0fd1d6": {
           "barterSettings": {
             "loyalLevel": 2,
@@ -2457,8 +2483,8 @@
           },
           "barters": [
             {
-              "count": 1876,
-              "_tpl": "MONEY_ROUBLES"
+              "count": 140,
+              "_tpl": "MONEY_DOLLARS"
             }
           ]
         }
@@ -2483,7 +2509,9 @@
         "path": "WeaponF2000/f2000_scope_cover.bundle",
         "rcid": ""
       },
-      "Weight": 0.089,
+      "Weight": 0.102,
+      "ExtraSizeUp": 1,
+      "Width": 2,
       "Slots": [],
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
