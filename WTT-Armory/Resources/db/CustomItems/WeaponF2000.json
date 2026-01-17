@@ -11,6 +11,7 @@
       "Height": 1,
       "Width": 4,
       "Weight": 1.710,
+      "bFirerate": 850,
       "Slots": [
         {
           "_name": "mod_magazine",
@@ -244,6 +245,7 @@
       "Height": 1,
       "Width": 4,
       "Weight": 1.710,
+      "bFirerate": 850,
       "Slots": [
         {
           "_name": "mod_magazine",
