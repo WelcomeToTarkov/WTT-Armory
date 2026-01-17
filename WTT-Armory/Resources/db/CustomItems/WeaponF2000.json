@@ -10,6 +10,7 @@
       },
       "Height": 1,
       "Width": 4,
+      "Weight": 1.334,
       "Slots": [
         {
           "_name": "mod_magazine",
@@ -102,10 +103,106 @@
     "modSlot": [],
     "fleaPriceRoubles": 140000,
     "handbookPriceRoubles": 90000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69699319c89a5522989b918a",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "F2000",
+        "_parent": "69699319c89a5522989b918b",
+        "_items": [
+          {
+            "_id": "69699319c89a5522989b918b",
+            "_tpl": "6962f22fddc6698c6309b620",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "69699316c89a5522989b8120",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "69699319c89a5522989b918b",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69699316c89a5522989b8121",
+            "_tpl": "696801005966cfdf3708c742",
+            "parentId": "69699319c89a5522989b918b",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69699316c89a5522989b8122",
+            "_tpl": "696801b85966cfdf3708c744",
+            "parentId": "69699319c89a5522989b918b",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "69699316c89a5522989b8123",
+            "_tpl": "696801b85966cfdf3708c746",
+            "parentId": "69699319c89a5522989b918b",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69699316c89a5522989b8124",
+            "_tpl": "69680a1b5966cfdf3708c754",
+            "parentId": "69699316c89a5522989b8121",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69699316c89a5522989b8125",
+            "_tpl": "696801005966cfdf3708c740",
+            "parentId": "69699316c89a5522989b8121",
+            "slotId": "mod_mount"
+          },
+          {
+            "_id": "69699316c89a5522989b8126",
+            "_tpl": "69694eed0d2309811a0fd1d1",
+            "parentId": "69699316c89a5522989b8124",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "69699316c89a5522989b8127",
+            "_tpl": "6968029b5966cfdf3708c748",
+            "parentId": "69699316c89a5522989b8125",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6962f22fddc6698c6309b620"
+      }
+    ],
     "traders": {
       "PRAPOR": {
         "6962f22fddc6698c6309b621": {
@@ -146,6 +243,7 @@
       },
       "Height": 1,
       "Width": 4,
+      "Weight": 1.334,
       "Slots": [
         {
           "_name": "mod_magazine",
@@ -238,10 +336,106 @@
     "modSlot": [],
     "fleaPriceRoubles": 140000,
     "handbookPriceRoubles": 90000,
-    "addtoTraders": true,
+    "addtoTraders": false,
     "masteries": true,
-    "addWeaponPreset": false,
-    "weaponPresets": [],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69699319c89a5522989b9185",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "F2000 FDE",
+        "_parent": "69699319c89a5522989b9186",
+        "_items": [
+          {
+            "_id": "69699319c89a5522989b9186",
+            "_tpl": "6969867592a994a633084f70",
+            "upd": {
+              "Repairable": {
+                "Durability": 69,
+                "MaxDurability": 69
+              },
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "6969930fc89a5522989b8117",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "69699319c89a5522989b9186",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "6969930fc89a5522989b8118",
+            "_tpl": "696801005966cfdf3708c742",
+            "parentId": "69699319c89a5522989b9186",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6969930fc89a5522989b8119",
+            "_tpl": "696801b85966cfdf3708c744",
+            "parentId": "69699319c89a5522989b9186",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "6969930fc89a5522989b811a",
+            "_tpl": "696801b85966cfdf3708c746",
+            "parentId": "69699319c89a5522989b9186",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "6969930fc89a5522989b811b",
+            "_tpl": "69680a1b5966cfdf3708c754",
+            "parentId": "6969930fc89a5522989b8118",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6969930fc89a5522989b811c",
+            "_tpl": "696801005966cfdf3708c740",
+            "parentId": "6969930fc89a5522989b8118",
+            "slotId": "mod_mount"
+          },
+          {
+            "_id": "6969930fc89a5522989b811d",
+            "_tpl": "69694eed0d2309811a0fd1d1",
+            "parentId": "6969930fc89a5522989b811b",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6969930fc89a5522989b811e",
+            "_tpl": "6968029b5966cfdf3708c748",
+            "parentId": "6969930fc89a5522989b811c",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          }
+        ],
+        "_encyclopedia": "6969867592a994a633084f70"
+      }
+    ],
     "traders": {
       "PRAPOR": {
         "6969867592a994a633084f71": {
@@ -1376,6 +1570,7 @@
         "path": "WeaponF2000/f2000_sight_rear.bundle",
         "rcid": ""
       },
+      "Weight": 0.034,
       "Slots": [],
       "ExaminedByDefault": true
     },
@@ -1460,6 +1655,7 @@
         "path": "WeaponF2000/f2000_slovenian_rear.bundle",
         "rcid": ""
       },
+      "Weight": 0.034,
       "Slots": [],
       "ExaminedByDefault": true
     },
@@ -2287,6 +2483,7 @@
         "path": "WeaponF2000/f2000_scope_cover.bundle",
         "rcid": ""
       },
+      "Weight": 0.089,
       "Slots": [],
       "CanSellOnRagfair": false,
       "CanRequireOnRagfair": false
