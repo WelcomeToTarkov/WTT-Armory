@@ -1,0 +1,2946 @@
+{
+  "696ce75f73805e693401aba0": {
+    "itemTplToClone": "618428466ef05c2ce828f218",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/weapon_msbs_container.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.7,
+      "bFirerate": 800,
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6184055050224f204c1da542",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "696e46a11a038d893a04a42d",
+                  "696fe221cf7469bf38051738"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6184055050224f204c1da543",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "55d4887d4bdc2d962f8b4570",
+                  "61840bedd92c473c77021635",
+                  "61840d85568c120fdd2962a5",
+                  "5c05413a0db834001c390617",
+                  "5c6d450c2e221600114c997d",
+                  "5c6d42cb2e2216000e69d7d1",
+                  "59c1383d86f774290a37e0ca",
+                  "5aaa5e60e5b5b000140293d6",
+                  "5448c1d04bdc2dff2f8b4569",
+                  "5aaa5dfee5b5b000140293d3",
+                  "5d1340b3d7ad1a0b52682ed7",
+                  "544a378f4bdc2d30388b4567",
+                  "5d1340bdd7ad1a0e8d245aab",
+                  "55802d5f4bdc2dac148b458e",
+                  "5d1340cad7ad1a0b0b249869",
+                  "6241c2c2117ad530666a5108",
+                  "5c6592372e221600133e47d7",
+                  "544a37c44bdc2d25388b4567",
+                  "5c6d46132e221601da357d56",
+                  "6761765f1f08ed5e8800b7a6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6184055050224f204c1da544",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e43e31a038d893a04a424",
+                  "696fe281cf7469bf3805173d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6184055050224f204c1da545",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e417f1a038d893a04a420",
+                  "696fc24464572d85f30aac0b",
+                  "696fc803cf7469bf38051733",
+                  "696fe281cf7469bf3805173a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 assault rifle",
+        "shortName": "MSBS",
+        "description": "The MSBS Grot is a Polish modular assault rifle developed by FB \"Łucznik\" Radom. It is designed to be easily configurable for different roles, featuring quick-change barrels and ambidextrous controls."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 110521,
+    "handbookPriceRoubles": 23991,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "69700ef023da2594bc8f024c",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "MSBS",
+        "_parent": "69700ef023da2594bc8f024d",
+        "_items": [
+          {
+            "_id": "69700ef023da2594bc8f024d",
+            "_tpl": "696ce75f73805e693401aba0",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              },
+              "FireMode": {
+                "FireMode": "single"
+              },
+              "Foldable": {
+                "Folded": false
+              }
+            }
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d2",
+            "_tpl": "696e46a11a038d893a04a42d",
+            "parentId": "69700ef023da2594bc8f024d",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d3",
+            "_tpl": "696fea0fcf7469bf38051e30",
+            "parentId": "69700ef023da2594bc8f024d",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d4",
+            "_tpl": "696e43e31a038d893a04a424",
+            "parentId": "69700ef023da2594bc8f024d",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d5",
+            "_tpl": "696e417f1a038d893a04a420",
+            "parentId": "69700ef023da2594bc8f024d",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d6",
+            "_tpl": "696e452a1a038d893a04a429",
+            "parentId": "69700eed23da2594bc8f01d4",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d7",
+            "_tpl": "5bc09a18d4351e003562b68e",
+            "parentId": "69700eed23da2594bc8f01d4",
+            "slotId": "mod_sight_rear",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d8",
+            "_tpl": "5bc09a30d4351e00367fb7c8",
+            "parentId": "69700eed23da2594bc8f01d4",
+            "slotId": "mod_sight_front",
+            "upd": {
+              "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                  0
+                ],
+                "ScopesSelectedModes": [
+                  0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+              }
+            }
+          },
+          {
+            "_id": "69700eed23da2594bc8f01d9",
+            "_tpl": "696e417f1a038d893a04a422",
+            "parentId": "69700eed23da2594bc8f01d4",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "69700eed23da2594bc8f01da",
+            "_tpl": "696e452a1a038d893a04a42b",
+            "parentId": "69700eed23da2594bc8f01d6",
+            "slotId": "mod_muzzle"
+          }
+        ],
+        "_encyclopedia": "696ce75f73805e693401aba0"
+      }
+    ],
+    "traders": {},
+    "masterySections": [
+      {
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "MSBS Grot",
+        "Templates": [
+          "696ce75f73805e693401aba0"
+        ]
+      }
+    ]
+  },
+  "696fe2ebcf7469bf3805173f": {
+    "itemTplToClone": "618428466ef05c2ce828f218",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/weapon_msbs_fde_container.bundle",
+        "rcid": ""
+      },
+      "Weight": 1.7,
+      "bFirerate": 800,
+      "Slots": [
+        {
+          "_name": "mod_pistol_grip",
+          "_id": "6184055050224f204c1da542",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "55d4b9964bdc2d1d4e8b456e",
+                  "571659bb2459771fb2755a12",
+                  "602e71bd53a60014f9705bfa",
+                  "6113c3586c780c1e710c90bc",
+                  "6113cc78d3a39d50044c065a",
+                  "6113cce3d92c473c770200c7",
+                  "5cc9bcaed7f00c011c04e179",
+                  "5bb20e18d4351e00320205d5",
+                  "5bb20e0ed4351e3bac1212dc",
+                  "6193dcd0f8ee7e52e4210a28",
+                  "5d025cc1d7ad1a53845279ef",
+                  "5c6d7b3d2e221600114c9b7d",
+                  "57c55efc2459772d2c6271e7",
+                  "57af48872459771f0b2ebf11",
+                  "57c55f092459772d291a8463",
+                  "57c55f112459772d28133310",
+                  "57c55f172459772d27602381",
+                  "5a339805c4a2826c6e06d73d",
+                  "55802f5d4bdc2dac148b458f",
+                  "5d15cf3bd7ad1a67e71518b2",
+                  "59db3a1d86f77429e05b4e92",
+                  "5fbcbd6c187fea44d52eda14",
+                  "59db3acc86f7742a2c4ab912",
+                  "59db3b0886f77429d72fb895",
+                  "615d8faecabb9b7ad90f4d5d",
+                  "5b07db875acfc40dc528a5f6",
+                  "63f5feead259b42f0b4d6d0f",
+                  "652911675ae2ae97b80fdf3c",
+                  "696e46a11a038d893a04a42d",
+                  "696fe221cf7469bf38051738"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_magazine",
+          "_id": "6184055050224f204c1da543",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "55d4887d4bdc2d962f8b4570",
+                  "61840bedd92c473c77021635",
+                  "61840d85568c120fdd2962a5",
+                  "5c05413a0db834001c390617",
+                  "5c6d450c2e221600114c997d",
+                  "5c6d42cb2e2216000e69d7d1",
+                  "59c1383d86f774290a37e0ca",
+                  "5aaa5e60e5b5b000140293d6",
+                  "5448c1d04bdc2dff2f8b4569",
+                  "5aaa5dfee5b5b000140293d3",
+                  "5d1340b3d7ad1a0b52682ed7",
+                  "544a378f4bdc2d30388b4567",
+                  "5d1340bdd7ad1a0e8d245aab",
+                  "55802d5f4bdc2dac148b458e",
+                  "5d1340cad7ad1a0b0b249869",
+                  "6241c2c2117ad530666a5108",
+                  "5c6592372e221600133e47d7",
+                  "544a37c44bdc2d25388b4567",
+                  "5c6d46132e221601da357d56",
+                  "6761765f1f08ed5e8800b7a6"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6184055050224f204c1da544",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e43e31a038d893a04a424",
+                  "696fe281cf7469bf3805173d"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6184055050224f204c1da545",
+          "_parent": "6184055050224f204c1da540",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e417f1a038d893a04a420",
+                  "696fc24464572d85f30aac0b",
+                  "696fc803cf7469bf38051733",
+                  "696fe281cf7469bf3805173a"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 assault rifle FDE",
+        "shortName": "MSBS",
+        "description": "The MSBS Grot is a Polish modular assault rifle developed by FB \"Łucznik\" Radom. It is designed to be easily configurable for different roles, featuring quick-change barrels and ambidextrous controls."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 110521,
+    "handbookPriceRoubles": 23991,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "69700ef023da2594bc8f0247",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "MSBS FDE",
+          "_parent": "69700ef023da2594bc8f0248",
+          "_items": [
+            {
+              "_id": "69700ef023da2594bc8f0248",
+              "_tpl": "696fe2ebcf7469bf3805173f",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "Foldable": {
+                  "Folded": false
+                }
+              }
+            },
+            {
+              "_id": "69700ee823da2594bc8f01c8",
+              "_tpl": "696fe221cf7469bf38051738",
+              "parentId": "69700ef023da2594bc8f0248",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "69700ee823da2594bc8f01c9",
+              "_tpl": "696fea0fcf7469bf38051e32",
+              "parentId": "69700ef023da2594bc8f0248",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "69700ee823da2594bc8f01ca",
+              "_tpl": "696fe281cf7469bf3805173d",
+              "parentId": "69700ef023da2594bc8f0248",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "69700ee823da2594bc8f01cb",
+              "_tpl": "696fc803cf7469bf38051733",
+              "parentId": "69700ef023da2594bc8f0248",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "69700ee823da2594bc8f01cc",
+              "_tpl": "696e452a1a038d893a04a429",
+              "parentId": "69700ee823da2594bc8f01ca",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "69700ee823da2594bc8f01cd",
+              "_tpl": "5c18b9192e2216398b5a8104",
+              "parentId": "69700ee823da2594bc8f01ca",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69700ee823da2594bc8f01ce",
+              "_tpl": "5c18b90d2e2216152142466b",
+              "parentId": "69700ee823da2594bc8f01ca",
+              "slotId": "mod_sight_front",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "69700ee823da2594bc8f01cf",
+              "_tpl": "696fe221cf7469bf38051736",
+              "parentId": "69700ee823da2594bc8f01ca",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "69700ee823da2594bc8f01d0",
+              "_tpl": "696e452a1a038d893a04a42b",
+              "parentId": "69700ee823da2594bc8f01cc",
+              "slotId": "mod_muzzle"
+            }
+          ],
+          "_encyclopedia": "696fe2ebcf7469bf3805173f"
+        }
+    ],
+    "traders": {},
+    "masterySections": [
+      {
+        "Level2": 1600,
+        "Level3": 2000,
+        "Name": "MSBS Grot",
+        "Templates": [
+          "696fe2ebcf7469bf3805173f"
+        ]
+      }
+    ]
+  },
+  "696e417f1a038d893a04a420": {
+    "itemTplToClone": "61816734d8e3106d9806c1f3",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_stock.bundle",
+        "rcid": ""
+      },
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot polymer folding stock",
+        "shortName": "MSBS Fold.",
+        "description": "Standard polymer folding stock for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 14250,
+    "handbookPriceRoubles": 7800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "696fc803cf7469bf38051733": {
+    "itemTplToClone": "61816734d8e3106d9806c1f3",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_stock_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": []
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot polymer folding stock FDE",
+        "shortName": "MSBS Fold.",
+        "description": "Standard polymer folding stock for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 14250,
+    "handbookPriceRoubles": 7800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "696e417f1a038d893a04a422": {
+    "itemTplToClone": "6065880c132d4d12c81fd8da",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_standard_handguard.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeRight": 0,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+          {
+            "_name": "mod_tactical_000",
+            "_id": "6065880c132d4d12c81fd8dc",
+            "_parent": "6065880c132d4d12c81fd8da",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_001",
+            "_id": "6065880c132d4d12c81fd8dd",
+            "_parent": "6065880c132d4d12c81fd8da",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+        "_name": "mod_foregrip",
+        "_id": "6065880c132d4d12c81fd8df",
+        "_parent": "6065880c132d4d12c81fd8da",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot MLOK Handguard",
+        "shortName": "MSBS HG",
+        "description": "Standard MLOK handguard for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 756,
+    "handbookPriceRoubles": 5242,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "696e417f1a038d893a04a423": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11034,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696fe221cf7469bf38051736": {
+    "itemTplToClone": "6065880c132d4d12c81fd8da",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_standard_handguard_fde.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeRight": 0,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "Slots": [
+          {
+            "_name": "mod_tactical_000",
+            "_id": "6065880c132d4d12c81fd8dc",
+            "_parent": "6065880c132d4d12c81fd8da",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_001",
+            "_id": "6065880c132d4d12c81fd8dd",
+            "_parent": "6065880c132d4d12c81fd8da",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+        "_name": "mod_foregrip",
+        "_id": "6065880c132d4d12c81fd8df",
+        "_parent": "6065880c132d4d12c81fd8da",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "57cffb66245977632f391a99",
+                "57cffcd624597763133760c5",
+                "57cffcdd24597763f5110006",
+                "57cffce524597763b31685d8",
+                "5b7be4895acfc400170e2dd5",
+                "651a8bf3a8520e48047bf708",
+                "651a8e529829226ceb67c319",
+                "665d5d9e338229cfd6078da1",
+                "665edce564fb556f940ab32a"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_required": false,
+        "_mergeSlotWithChildren": false,
+        "_proto": "55d30c4c4bdc2db4468b457e"
+      }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot MLOK Handguard FDE",
+        "shortName": "MSBS HG",
+        "description": "Standard MLOK handguard for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+  "addtoInventorySlots": [],
+  "addtoModSlots": false,
+  "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 756,
+    "handbookPriceRoubles": 5242,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 20
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 20
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PRAPOR": {
+        "696fe221cf7469bf38051737": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 11034,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696e43e31a038d893a04a424": {
+    "itemTplToClone": "618405198004cc50514c3594",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_receiver.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_scope_000",
+          "_id": "618405198004cc50514c3596",
+          "_parent": "55d355e64bdc2d962f8b4569",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "618405198004cc50514c3597",
+          "_parent": "6903d61d9ee60d48410221e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e452a1a038d893a04a429",
+                  "696fc24464572d85f30aac0e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "618405198004cc50514c3598",
+          "_parent": "55d355e64bdc2d962f8b4569",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "61817865d3a39d50044c13a4",
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "618405198004cc50514c3599",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "618405198004cc50514c359a",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "618405198004cc50514c359d",
+          "_parent": "6903d61d9ee60d48410221e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "618405198004cc50514c359b",
+          "_parent": "618405198004cc50514c3594",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e417f1a038d893a04a422",
+                  "696fc24464572d85f30aac0d",
+                  "696fe221cf7469bf38051736",
+                  "696fe281cf7469bf3805173b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 Receiver",
+        "shortName": "MSBS",
+        "description": "Standard receiver for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 25150,
+    "handbookPriceRoubles": 19624,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "696e43e31a038d893a04a425": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696fe281cf7469bf3805173d": {
+    "itemTplToClone": "618405198004cc50514c3594",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_receiver_fde.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_scope_000",
+          "_id": "618405198004cc50514c3596",
+          "_parent": "55d355e64bdc2d962f8b4569",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296",
+                  "655f13e0a246670fb0373245",
+                  "6567e751a715f85433025998",
+                  "67641a851b2899700609901a",
+                  "6761759e7ee06333f108bf86"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "618405198004cc50514c3597",
+          "_parent": "6903d61d9ee60d48410221e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e452a1a038d893a04a429",
+                  "696fc24464572d85f30aac0e"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_rear",
+          "_id": "618405198004cc50514c3598",
+          "_parent": "55d355e64bdc2d962f8b4569",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "61817865d3a39d50044c13a4",
+                  "5bb20e49d4351e3bac1212de",
+                  "5ba26b17d4351e00367f9bdd",
+                  "5dfa3d7ac41b2312ea33362a",
+                  "5c1780312e221602b66cc189",
+                  "5fb6564947ce63734e3fa1da",
+                  "5bc09a18d4351e003562b68e",
+                  "5c18b9192e2216398b5a8104",
+                  "5fc0fa957283c4046c58147e",
+                  "5894a81786f77427140b8347",
+                  "55d5f46a4bdc2d1b198b4567",
+                  "5ae30bad5acfc400185c2dc4"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "618405198004cc50514c3599",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5ba26b01d4351e0085325a51",
+                  "5dfa3d950dee1b22f862eae0",
+                  "5c17804b2e2216152006c02f",
+                  "5fb6567747ce63734e3fa1dc",
+                  "5bc09a30d4351e00367fb7c8",
+                  "5c18b90d2e2216152142466b",
+                  "5fc0fa362770a0045c59c677",
+                  "5894a73486f77426d259076c"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical",
+          "_id": "618405198004cc50514c359a",
+          "_parent": "5ea16ada09aa976f2e7a51be",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57fd23e32459772d0805bcf1",
+                  "544909bb4bdc2d6f028b4577",
+                  "5d10b49bd7ad1a1a560708b0",
+                  "5c06595c0db834001a66af6c",
+                  "5a7b483fe899ef0016170d15",
+                  "61605d88ffa6e502ac5e7eeb",
+                  "5c5952732e2216398b5abda2",
+                  "644a3df63b0b6f03e101e065"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_scope",
+          "_id": "618405198004cc50514c359d",
+          "_parent": "6903d61d9ee60d48410221e1",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5649a2464bdc2d91118b45a8"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_handguard",
+          "_id": "618405198004cc50514c359b",
+          "_parent": "618405198004cc50514c3594",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "696e417f1a038d893a04a422",
+                  "696fc24464572d85f30aac0d",
+                  "696fe221cf7469bf38051736",
+                  "696fe281cf7469bf3805173b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 Receiver FDE",
+        "shortName": "MSBS",
+        "description": "Standard receiver for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 25150,
+    "handbookPriceRoubles": 19624,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "696fe2ebcf7469bf3805173e": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 34000,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696e452a1a038d893a04a429": {
+    "itemTplToClone": "6183fc15d3a39d50044c13e9",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_standard_barrel.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6183fd911cb55961fa0fdceb",
+          "_parent": "6183fd911cb55961fa0fdce9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "618407a850224f204c1da549",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18",
+                  "696e452a1a038d893a04a42b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 10.5 inch Receiver",
+        "shortName": "MSBS 10.5",
+        "description": "A 10.5(265mm) inch barrel for the MSBS Grot 5.56x45 rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24000,
+    "handbookPriceRoubles": 19642,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "696e452a1a038d893a04a42a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 374,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696fc24464572d85f30aac0e": {
+    "itemTplToClone": "6183fd9e8004cc50514c358f",
+    "parentId": "555ef6e44bdc2de9068b457e",
+    "handbookParentId": "5b5f75c686f774094242f19f",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_long_barrel.bundle",
+        "rcid": ""
+      },
+      "ExtraSizeleft": 2,
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "6183fd911cb55961fa0fdceb",
+          "_parent": "6183fd911cb55961fa0fdce9",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5b3a16655acfc40016387a2a",
+                  "5c7e5f112e221600106f4ede",
+                  "5c0fafb6d174af02a96260ba",
+                  "612e0cfc8004cc50514c2d9e",
+                  "5cf6937cd7f00c056c53fb39",
+                  "544a38634bdc2d58388b4568",
+                  "5cff9e5ed7ad1a09407397d4",
+                  "5c48a2a42e221602b66d1e07",
+                  "5f6372e2865db925d54f3869",
+                  "618407a850224f204c1da549",
+                  "615d8e2f1cb55961fa0fd9a4",
+                  "56ea8180d2720bf2698b456a",
+                  "5d02676dd7ad1a049e54f6dc",
+                  "56ea6fafd2720b844b8b4593",
+                  "5943ee5a86f77413872d25ec",
+                  "609269c3b0e443224b421cc1",
+                  "5c7fb51d2e2216001219ce11",
+                  "5ea172e498dacb342978818e",
+                  "5c6d710d2e22165df16b81e7",
+                  "612e0e55a112697a4b3a66e7",
+                  "5d440625a4b9361eec4ae6c5",
+                  "5cc9b815d7f00c000e2579d6",
+                  "5a7c147ce899ef00150bd8b8",
+                  "5c7954d52e221600106f4cc7",
+                  "59bffc1f86f77435b128b872",
+                  "5a9fbb84a2750c00137fa685",
+                  "626667e87379c44d557b7550",
+                  "62669bccdb9ebb4daa44cd14",
+                  "626a74340be03179a165e30c",
+                  "6386120cd6baa055ad1e201c",
+                  "63ac5c9658d0485fc039f0b8",
+                  "6405ff6bd4578826ec3e377a",
+                  "64943b74e9998d641b0412ed",
+                  "6621455e3aceea9e2b0b01e7",
+                  "664301213dd83ddae20dda18",
+                  "696e452a1a038d893a04a42b"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 16 inch Receiver",
+        "shortName": "MSBS 16",
+        "description": "A 16(406mm) inch barrel for the MSBS Grot 5.56x45 rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_barrel"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 16200,
+    "handbookPriceRoubles": 10234,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ],
+    "traders": {
+      "SKIER": {
+        "696fc5ed64572d85f30aac0f": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 29970,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "696e452a1a038d893a04a42b": {
+    "itemTplToClone": "544a38634bdc2d58388b4568",
+    "parentId": "550aa4bf4bdc2dd6348b456b",
+    "handbookParentId": "5b5f724c86f774093f2ecf15",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_muzzle.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45 Flash Hider",
+        "shortName": "MSBS",
+        "description": "A standard-issue 5.56x45 flash hider for the MSBS Grot assault rifle"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 1340,
+    "handbookPriceRoubles": 867,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "696e452a1a038d893a04a42c": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1876,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696fc5ed64572d85f30aac10": {
+    "itemTplToClone": "5a9fbb84a2750c00137fa685",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_silencer.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "STEEL Pegasus 5.56x45 Silencer",
+        "shortName": "Pegasus",
+        "description": "The STEEL Pegasus is a high-performance suppressor line manufactured by the Ukrainian company STEEL. Despite the brand name, the Pegasus series is primarily constructed from Grade 6 Titanium (BT6) rather than steel, chosen for its heat resistance and lightweight properties."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 1340,
+    "handbookPriceRoubles": 867,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "696fc5ed64572d85f30aac11": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1876,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696e46a11a038d893a04a42d": {
+    "itemTplToClone": "55802f5d4bdc2dac148b458f",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_pistolgrip.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot Pistol Grip",
+        "shortName": "MSBS Grip",
+        "description": "Standard pistol grip for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10600,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "696e46a11a038d893a04a42e": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "696fe221cf7469bf38051738": {
+    "itemTplToClone": "55802f5d4bdc2dac148b458f",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_pistolgrip_fde.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot Pistol Grip FDE",
+        "shortName": "MSBS Grip",
+        "description": "Standard pistol grip for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10600,
+    "handbookPriceRoubles": 7200,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "696fe221cf7469bf38051739": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 2
+          },
+          "barters": [
+            {
+              "count": 75,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  },
+  "696fc24464572d85f30aac0b": {
+    "itemTplToClone": "58ac1bf086f77420ed183f9f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_buffer_stock.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "BlocksFolding": true,
+      "Slots": [
+        {
+          "_id": "69135c81bdd830062c92a6be",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "69135c0bfc195df74e8b4592",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                    "57ade1442459771557167e15",
+                    "5a33ca0fc4a282000d72292f",
+                    "5c0faeddd174af02a962601f",
+                    "5649be884bdc2d79388b4577",
+                    "5d120a10d7ad1a4e1026ba85",
+                    "5b0800175acfc400153aebd4",
+                    "5947e98b86f774778f1448bc",
+                    "5947eab886f77475961d96c5",
+                    "5ef1ba28c64c5d0dfc0571a5",
+                    "602e3f1254072b51b239f713",
+                    "5c793fb92e221644f31bfb64",
+                    "5c793fc42e221600114ca25d",
+                    "591aef7986f774139d495f03",
+                    "591af10186f774139d495f0e",
+                    "627254cc9c563e6e442c398f",
+                    "638de3603a1a4031d8260b8c"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot buffer tube adapter",
+        "shortName": "MSBS Adpt.",
+        "description": "A buffer tube adapter for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 16101,
+    "handbookPriceRoubles": 8943,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "696fe281cf7469bf3805173a": {
+    "itemTplToClone": "58ac1bf086f77420ed183f9f",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_buffer_stock_fde.bundle",
+        "rcid": ""
+      },
+      "ExaminedByDefault": true,
+      "BlocksFolding": true,
+      "Slots": [
+        {
+          "_id": "69135c81bdd830062c92a6be",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_stock",
+          "_parent": "69135c0bfc195df74e8b4592",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                    "57ade1442459771557167e15",
+                    "5a33ca0fc4a282000d72292f",
+                    "5c0faeddd174af02a962601f",
+                    "5649be884bdc2d79388b4577",
+                    "5d120a10d7ad1a4e1026ba85",
+                    "5b0800175acfc400153aebd4",
+                    "5947e98b86f774778f1448bc",
+                    "5947eab886f77475961d96c5",
+                    "5ef1ba28c64c5d0dfc0571a5",
+                    "602e3f1254072b51b239f713",
+                    "5c793fb92e221644f31bfb64",
+                    "5c793fc42e221600114ca25d",
+                    "591aef7986f774139d495f03",
+                    "591af10186f774139d495f0e",
+                    "627254cc9c563e6e442c398f",
+                    "638de3603a1a4031d8260b8c"
+                ]
+              }
+            ]
+          },
+          "_proto": "55d30c394bdc2dae468b4577",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot buffer tube adapter FDE",
+        "shortName": "MSBS Adpt.",
+        "description": "A buffer tube adapter for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_stock"
+    ],
+    "fleaPriceRoubles": 16101,
+    "handbookPriceRoubles": 8943,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "traders": {},
+    "staticLootContainers": []
+  },
+  "696fc24464572d85f30aac0d": {
+    "itemTplToClone": "67069d66af4890b09f0006ec",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_long_handguard.bundle",
+        "rcid": ""
+      },
+	  "CoolFactor": 1.037,
+	  "Ergonomics": 11,
+	  "HeatFactor": 0.89,
+	  "RaidModdable": false,
+	  "Recoil": -3,
+	  "Weight": 0.71,
+	  "ExtraSizeLeft": 2,
+	  "Width": 3,
+      "Slots": [
+          {
+            "_name": "mod_tactical_000",
+            "_id": "6065881d1246154cad35d639",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_001",
+            "_id": "6065881d1246154cad35d63a",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_002",
+            "_id": "6065881d1246154cad35d63b",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb",
+                    "671126b049e181972e0681fa"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_003",
+            "_id": "6065881d1246154cad35d63c",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5c5952732e2216398b5abda2",
+                    "644a3df63b0b6f03e101e065"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_foregrip",
+            "_id": "6065881d1246154cad35d63d",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "57cffb66245977632f391a99",
+                    "57cffcd624597763133760c5",
+                    "57cffcdd24597763f5110006",
+                    "57cffce524597763b31685d8",
+                    "5b7be4895acfc400170e2dd5",
+                    "651a8bf3a8520e48047bf708",
+                    "651a8e529829226ceb67c319",
+                    "665d5d9e338229cfd6078da1",
+                    "665edce564fb556f940ab32a"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul Masada extended hybrid handguard",
+        "shortName": "Masada Ext.",
+        "description": "Extended hybrid handguard for the Magpul Masada 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 19953,
+    "handbookPriceRoubles": 13811,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "traders": {}
+  },
+  "696fe281cf7469bf3805173b": {
+    "itemTplToClone": "67069d66af4890b09f0006ec",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_long_handguard_fde.bundle",
+        "rcid": ""
+      },
+	  "CoolFactor": 1.037,
+	  "Ergonomics": 11,
+	  "HeatFactor": 0.89,
+	  "RaidModdable": false,
+	  "Recoil": -3,
+	  "Weight": 0.71,
+	  "ExtraSizeLeft": 2,
+	  "Width": 3,
+      "Slots": [
+          {
+            "_name": "mod_tactical_000",
+            "_id": "6065881d1246154cad35d639",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_001",
+            "_id": "6065881d1246154cad35d63a",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_002",
+            "_id": "6065881d1246154cad35d63b",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "5b7be47f5acfc400170e2dd2",
+                    "6269220d70b6c02e665f2635",
+                    "6269545d0e57f218e4548ca2",
+                    "669a6a4a525be1d2d004b8eb",
+                    "671126b049e181972e0681fa"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_tactical_003",
+            "_id": "6065881d1246154cad35d63c",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "544909bb4bdc2d6f028b4577",
+                    "5d10b49bd7ad1a1a560708b0",
+                    "5c06595c0db834001a66af6c",
+                    "61605d88ffa6e502ac5e7eeb",
+                    "5c5952732e2216398b5abda2",
+                    "644a3df63b0b6f03e101e065"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          },
+          {
+            "_name": "mod_foregrip",
+            "_id": "6065881d1246154cad35d63d",
+            "_parent": "6065881d1246154cad35d637",
+            "_props": {
+              "filters": [
+                {
+                  "Filter": [
+                    "57cffb66245977632f391a99",
+                    "57cffcd624597763133760c5",
+                    "57cffcdd24597763f5110006",
+                    "57cffce524597763b31685d8",
+                    "5b7be4895acfc400170e2dd5",
+                    "651a8bf3a8520e48047bf708",
+                    "651a8e529829226ceb67c319",
+                    "665d5d9e338229cfd6078da1",
+                    "665edce564fb556f940ab32a"
+                  ],
+                  "Shift": 0
+                }
+              ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+          }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul Masada extended hybrid handguard FDE",
+        "shortName": "Masada Ext.",
+        "description": "Extended hybrid handguard for the Magpul Masada 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 19953,
+    "handbookPriceRoubles": 13811,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "traders": {}
+  },
+  "696fc803cf7469bf38051731": {
+    "itemTplToClone": "651a8bf3a8520e48047bf708",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_foregrip.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot A2 M-LOK Foregrip",
+        "shortName": "MSBS FG A2",
+        "description": "An ergonomic A2-style foregrip for the MSBS Grot 5.56x45mm assault rifle featuring M-LOK mounting system."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "696fc803cf7469bf38051732": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696fe281cf7469bf3805173c": {
+    "itemTplToClone": "651a8bf3a8520e48047bf708",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_foregrip_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot A2 M-LOK Foregrip FDE",
+        "shortName": "MSBS FG A2",
+        "description": "An ergonomic A2-style foregrip for the MSBS Grot 5.56x45mm assault rifle featuring M-LOK mounting system."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "696fc803cf7469bf38051732": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696fea0fcf7469bf38051e30": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_mag.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45mm 30-Round Magazine",
+        "shortName": "MSBS Mag",
+        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "696fea0fcf7469bf38051e31": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696fea0fcf7469bf38051e32": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_mag_fde.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45mm 30-Round Magazine FDE",
+        "shortName": "MSBS Mag",
+        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "696fea0fcf7469bf38051e33": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  },
+  "696feac2cf7469bf38051e34": {
+    "itemTplToClone": "5d1340b3d7ad1a0b52682ed7",
+    "parentId": "5448bc234bdc2d3c308b4569",
+    "handbookParentId": "5b5f754a86f774094242f19b",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponMSBS/msbs_mag_blue.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "MSBS Grot 5.56x45mm 30-Round Magazine Blue Polycarbonate",
+        "shortName": "MSBS Mag",
+        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_magazine"
+    ],
+    "fleaPriceRoubles": 859,
+    "handbookPriceRoubles": 784,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "696feac2cf7469bf38051e35": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 1101,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}

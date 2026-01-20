@@ -6759,6 +6759,204 @@
             "assets/content/audio/blendoptions/assets.bundle",
             "assets/content/weapons/additional_hands/client_assets.bundle"
         ]
-    }
+    },
+    {
+        "key": "WeaponMSBS/msbs_buffer_stock.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_buffer_stock_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_foregrip.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_foregrip_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_long_barrel.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_long_handguard.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_long_handguard_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_mag.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_mag_blue.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_mag_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_muzzle.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_pistolgrip.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_pistolgrip_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_receiver.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_receiver_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_silencer.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_standard_barrel.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_standard_handguard.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_standard_handguard_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_stock.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/msbs_stock_fde.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/weapon_msbs_container.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle"
+        ]
+    },
+    {
+        "key": "WeaponMSBS/weapon_msbs_fde_container.bundle",
+        "dependencyKeys": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle"
+        ]
+    }   
   ]
 }
