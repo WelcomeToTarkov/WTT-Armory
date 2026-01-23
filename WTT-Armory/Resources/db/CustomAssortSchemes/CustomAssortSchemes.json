@@ -8560,8 +8560,8 @@
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {
-                "StackObjectsCount": 1,
-                "UnlimitedCount": false,
+                "StackObjectsCount": 99999,
+                "UnlimitedCount": true,
                 "Repairable": {
                 "Durability": 100,
                 "MaxDurability": 100
@@ -8569,7 +8569,7 @@
                 "FireMode": {
                 "FireMode": "single"
                 },
-                "BuyRestrictionMax": 1,
+                "BuyRestrictionMax": 0,
                 "Foldable": {
                 "Folded": false
                 }
@@ -8606,10 +8606,77 @@
             "slotId": "mod_stock"
             },
             {
-            "_id": "6955e5eec447b910a0a000fa",
-            "_tpl": "55d480c04bdc2d1d4e8b456a",
-            "parentId": "6955e5f2c447b910a0a0013c",
-            "slotId": "mod_magazine"
+                "_id": "6955e5eec447b910a0a000fa",
+                "_tpl": "55d480c04bdc2d1d4e8b456a",
+                "parentId": "6955e5f2c447b910a0a0013c",
+                "slotId": "mod_magazine"
+            },
+            {
+                "_id": "6973fc153ee60d4938b21bcb",
+                "_tpl": "695ab544a219218449041700",
+                "parentId": "hideout",
+                "slotId": "hideout",
+                "upd": {
+                    "StackObjectsCount": 99999,
+                    "UnlimitedCount": true,
+                    "Repairable": {
+                        "Durability": 100,
+                        "MaxDurability": 100
+                    },
+                    "FireMode": {
+                        "FireMode": "single"
+                    },
+                    "SpawnedInSession": true,
+                    "BuyRestrictionMax": 0,
+                    "Foldable": {
+                        "Folded": false
+                    }
+                }
+            },
+            {
+                "_id": "6973fc103ee60d4938b21bbd",
+                "_tpl": "5649aa744bdc2ded0b8b457e",
+                "parentId": "6973fc153ee60d4938b21bcb",
+                "slotId": "mod_muzzle",
+                "upd": {
+                    "SpawnedInSession": true
+                }
+            },
+            {
+                "_id": "6973fc103ee60d4938b21bbe",
+                "_tpl": "5649ade84bdc2d1b2b8b4587",
+                "parentId": "6973fc153ee60d4938b21bcb",
+                "slotId": "mod_pistol_grip",
+                "upd": {
+                    "SpawnedInSession": true
+                }
+            },
+            {
+                "_id": "6973fc103ee60d4938b21bbf",
+                "_tpl": "5ac50c185acfc400163398d4",
+                "parentId": "6973fc153ee60d4938b21bcb",
+                "slotId": "mod_stock",
+                "upd": {
+                    "SpawnedInSession": true
+                }
+            },
+            {
+                "_id": "6973fc103ee60d4938b21bc0",
+                "_tpl": "55d480c04bdc2d1d4e8b456a",
+                "parentId": "6973fc153ee60d4938b21bcb",
+                "slotId": "mod_magazine",
+                "upd": {
+                    "SpawnedInSession": true
+                }
+            },
+            {
+                "_id": "6973fc103ee60d4938b21bc1",
+                "_tpl": "5cbda392ae92155f3c17c39f",
+                "parentId": "6973fc153ee60d4938b21bcb",
+                "slotId": "mod_handguard",
+                "upd": {
+                    "SpawnedInSession": true
+                }   
             }
         ],
         "barter_scheme": {
@@ -8909,6 +8976,14 @@
                 [
                     {
                         "count": 67950,
+                        "_tpl": "5449016a4bdc2d6f028b456f"
+                    }
+                ]
+            ],
+            "6973fc153ee60d4938b21bcb": [
+                [
+                    {
+                        "count": 132487,
                         "_tpl": "5449016a4bdc2d6f028b456f"    
                     }
                 ]
@@ -8950,7 +9025,8 @@
             "68cf6c56cb996a3530052b51": 1,
             "68d764be0875417cf003f4a9": 1,
             "68fe746bc8fc1ddeec23fdb7": 1,
-            "692fa399ecf82e70940ee4bd": 3
+            "692fa399ecf82e70940ee4bd": 3,
+            "6973fc153ee60d4938b21bcb": 4
         }
     },
     "JAEGER": {
