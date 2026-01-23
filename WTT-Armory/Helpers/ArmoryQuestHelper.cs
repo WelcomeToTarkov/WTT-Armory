@@ -79,6 +79,12 @@ namespace WTTArmory.Helpers
         private const string MASADABOSS = "69161a1d649768162e8219ef";
         private const string UMP9 = "67b05e25d83f07b7b587c0b5";
         private const string SV98M = "69236a0b2d1260dbca41ef92";
+        private const string F2000 = "6962f22fddc6698c6309b620";
+        private const string F2000FDE = "6969867592a994a633084f70";
+        private const string A545 = "69555be939fb0a1a6f0ad12e";
+        private const string AK107 = "695ab544a219218449041700";
+        private const string GROT = "696ce75f73805e693401aba0";
+        private const string GROTFDE = "696fe2ebcf7469bf3805173f";
         
         public void ModifyQuests()
         {
@@ -116,7 +122,7 @@ namespace WTTArmory.Helpers
                 IWI_TAVOR_X95_FDE, KNIGHTS_ARMAMENT_PDW, PATRIOT, REMINGTON_ACR,
                 REMINGTON_ACR_FDE, WAGES_OF_SIN_AR15, WAGES_OF_SIN_AR15_FDE,
                 WAGES_OF_SIN_AR15_RED, ZASTAVA_M76, SVD_DRAGUNOV, SVD_DRAGUNOV_GREEN,
-                AG042, AG043, HK_XM8FDE, MASADA, MASADAFDE, MASADABOSS
+                AG042, AG043, HK_XM8FDE, MASADA, MASADAFDE, MASADABOSS, F2000, F2000FDE, GROT,GROTFDE, AK107, A545
             ]);
 
             // ====================== SKIER QUESTS ======================
