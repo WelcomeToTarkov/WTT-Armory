@@ -11,6 +11,7 @@
       },
       "defMagType": "68fd5afbf79eba961169cd92",
       "defAmmo": "68fd537f2965f74cf4a87894",
+      "ReloadMode": "ExternalMagazine",
 	  "RecoilForceBack": 1004,
       "RecoilForceUp": 528,
       "Ergonomics": 31,
