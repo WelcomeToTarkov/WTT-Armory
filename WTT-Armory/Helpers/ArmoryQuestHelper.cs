@@ -94,6 +94,9 @@ namespace WTTArmory.Helpers
         private const string  windtalker_fde = "68fd63e8842f704b09062fd1";
         private const string  windtalker_titan= "68fd6401e11fcc19f3a8d365";
         private const string  msr_supp = "684e49af525c602815316f8d";
+        private const string  susat= "2322ee962f6c77a1284abc1e";
+        private const string  aimpoint_cs= "03f6c86c56945862820e1006";
+        private const string  mars= "5ae3d18efa17cbd51e898ced";
         
         public void ModifyQuests()
         {
@@ -193,6 +196,9 @@ namespace WTTArmory.Helpers
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker_fde, "593d489686f7745c6255d58a", true);
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker_titan, "593d489686f7745c6255d58a", true);
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", msr_supp, "593d489686f7745c6255d58a", true);
+            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", mars, "5aa66be6e5b5b0214e506e97", false);
+            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", susat, "5aa66be6e5b5b0214e506e97", false);
+            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", aimpoint_cs, "5aa66be6e5b5b0214e506e97", false);
             
             // Claustrophobia (669fa3979b0ce3feae01a130)
             questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
