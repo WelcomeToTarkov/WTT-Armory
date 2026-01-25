@@ -90,6 +90,10 @@ namespace WTTArmory.Helpers
         // Weapon Mods
 
         private const string m700_PGW_Defense_C14_Timberwolf = "c8548cdf0e490383177f37c1";
+        private const string  windtalker = "68fd62d343a142b14be0c3ec";
+        private const string  windtalker_fde = "68fd63e8842f704b09062fd1";
+        private const string  windtalker_titan= "68fd6401e11fcc19f3a8d365";
+        private const string  msr_supp = "684e49af525c602815316f8d";
         
         public void ModifyQuests()
         {
@@ -185,7 +189,10 @@ namespace WTTArmory.Helpers
 
             // Tarkov Shooter Part 1-8 (MODS)
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", m700_PGW_Defense_C14_Timberwolf, "593d489686f7745c6255d58a", true);
-            
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker, "593d489686f7745c6255d58a", true);
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker_fde, "593d489686f7745c6255d58a", true);
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker_titan, "593d489686f7745c6255d58a", true);
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", msr_supp, "593d489686f7745c6255d58a", true);
             
             // Claustrophobia (669fa3979b0ce3feae01a130)
             questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
