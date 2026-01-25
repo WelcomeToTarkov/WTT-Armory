@@ -191,14 +191,19 @@ namespace WTTArmory.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
 
             // Tarkov Shooter Part 1-8 (MODS)
+            
+            // Part 1
+            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", mars, "5aa66be6e5b5b0214e506e97", false);
+            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", susat, "5aa66be6e5b5b0214e506e97", false);
+            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", aimpoint_cs, "5aa66be6e5b5b0214e506e97", false);
+            
+            // Part 7
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", m700_PGW_Defense_C14_Timberwolf, "593d489686f7745c6255d58a", true);
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker, "593d489686f7745c6255d58a", true);
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker_fde, "593d489686f7745c6255d58a", true);
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", windtalker_titan, "593d489686f7745c6255d58a", true);
             questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", msr_supp, "593d489686f7745c6255d58a", true);
-            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", mars, "5aa66be6e5b5b0214e506e97", false);
-            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", susat, "5aa66be6e5b5b0214e506e97", false);
-            questHelper.AddWeaponModToCondition(quests, "5bc4776586f774512d07cf05", aimpoint_cs, "5aa66be6e5b5b0214e506e97", false);
+
             
             // Claustrophobia (669fa3979b0ce3feae01a130)
             questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
