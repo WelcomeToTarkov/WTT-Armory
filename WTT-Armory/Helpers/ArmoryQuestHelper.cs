@@ -86,6 +86,11 @@ namespace WTTArmory.Helpers
         private const string GROT = "696ce75f73805e693401aba0";
         private const string GROTFDE = "696fe2ebcf7469bf3805173f";
         
+        
+        // Weapon Mods
+
+        private const string m700_PGW_Defense_C14_Timberwolf = "c8548cdf0e490383177f37c1";
+        
         public void ModifyQuests()
         {
             var quests = databaseService.GetTemplates().Quests;
@@ -168,7 +173,7 @@ namespace WTTArmory.Helpers
                 REMINGTON_MSR, CHEYTAC_M200, CHEYTAC_M200_FDE, CHEYTAC_M200_BOSS,  M1894, M700_XL_ACTION, M700_XL_ACTION_NORMA, AXMC_300_WINMAG, HENRY_BIG_BOY, SV98M
             };
 
-            // Tarkov Shooter Part 1-8
+            // Tarkov Shooter Part 1-8 (WEAPONS)
             questHelper.AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", tarkovShooterWeapons); // Part 1
             questHelper.AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", tarkovShooterWeapons); // Part 2
             questHelper.AddWeaponsToKillCondition(quests, "5bc47dbf86f7741ee74e93b9", tarkovShooterWeapons); // Part 3
@@ -178,6 +183,10 @@ namespace WTTArmory.Helpers
             questHelper.AddWeaponsToKillCondition(quests, "5bc4856986f77454c317bea7", tarkovShooterWeapons); // Part 7
             questHelper.AddWeaponsToKillCondition(quests, "5bc4893c86f774626f5ebf3e", tarkovShooterWeapons); // Part 8
 
+            // Tarkov Shooter Part 1-8 (MODS)
+            questHelper.AddWeaponModToCondition(quests, "5bc4856986f77454c317bea7", m700_PGW_Defense_C14_Timberwolf, "593d489686f7745c6255d58a", true);
+            
+            
             // Claustrophobia (669fa3979b0ce3feae01a130)
             questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [
                 BROWNING_AUTO5, BROWNING_AUTO5_BOSS, SERBU_SUPER_SHORTY
