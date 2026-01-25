@@ -642,8 +642,6 @@
         "rcid": ""
       },
       "ExtraSizeRight": 0,
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false,
       "Slots": [
           {
             "_name": "mod_tactical_000",
@@ -798,8 +796,6 @@
         "rcid": ""
       },
       "ExtraSizeRight": 0,
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false,
       "Slots": [
           {
             "_name": "mod_tactical_000",
@@ -1191,7 +1187,7 @@
     "modSlot": [
       "mod_reciever"
     ],
-    "addtoTraders": false,
+    "addtoTraders": true,
     "fleaPriceRoubles": 25150,
     "handbookPriceRoubles": 19624,
     "addtoStaticLootContainers": true,
@@ -1628,8 +1624,8 @@
           },
           "barters": [
             {
-              "count": 374,
-              "_tpl": "MONEY_DOLLARS"
+              "count": 35736,
+              "_tpl": "MONEY_ROUBLES"
             }
           ]
         }
@@ -1763,9 +1759,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_muzzle.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -1848,9 +1842,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_silencer.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -1864,8 +1856,8 @@
     "modSlot": [
       "mod_muzzle"
     ],
-    "fleaPriceRoubles": 1340,
-    "handbookPriceRoubles": 867,
+    "fleaPriceRoubles": 42965,
+    "handbookPriceRoubles": 31343,
     "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -1992,7 +1984,7 @@
           },
           "barters": [
             {
-              "count": 75,
+              "count": 80,
               "_tpl": "MONEY_DOLLARS"
             }
           ]
@@ -2069,7 +2061,7 @@
           },
           "barters": [
             {
-              "count": 75,
+              "count": 80,
               "_tpl": "MONEY_DOLLARS"
             }
           ]
@@ -2527,9 +2519,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_foregrip.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -2543,8 +2533,8 @@
     "modSlot": [
       "mod_foregrip"
     ],
-    "fleaPriceRoubles": 859,
-    "handbookPriceRoubles": 784,
+    "fleaPriceRoubles": 6754,
+    "handbookPriceRoubles": 4253,
     "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2587,7 +2577,7 @@
           },
           "barters": [
             {
-              "count": 1101,
+              "count": 7802,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -2612,9 +2602,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_foregrip_fde.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -2628,8 +2616,8 @@
     "modSlot": [
       "mod_foregrip"
     ],
-    "fleaPriceRoubles": 859,
-    "handbookPriceRoubles": 784,
+    "fleaPriceRoubles": 6754,
+    "handbookPriceRoubles": 4253,
     "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2672,7 +2660,7 @@
           },
           "barters": [
             {
-              "count": 1101,
+              "count": 7802,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -2697,9 +2685,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_mag.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -2713,8 +2699,8 @@
     "modSlot": [
       "mod_magazine"
     ],
-    "fleaPriceRoubles": 859,
-    "handbookPriceRoubles": 784,
+    "fleaPriceRoubles": 3797,
+    "handbookPriceRoubles": 2342,
     "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2757,7 +2743,7 @@
           },
           "barters": [
             {
-              "count": 1101,
+              "count": 4424,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -2782,9 +2768,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_mag_fde.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -2798,8 +2782,8 @@
     "modSlot": [
       "mod_magazine"
     ],
-    "fleaPriceRoubles": 859,
-    "handbookPriceRoubles": 784,
+    "fleaPriceRoubles": 3797,
+    "handbookPriceRoubles": 2342,
     "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2842,7 +2826,7 @@
           },
           "barters": [
             {
-              "count": 1101,
+              "count": 4424,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
@@ -2867,9 +2851,7 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_mag_blue.bundle",
         "rcid": ""
-      },
-      "CanSellOnRagfair": false,
-      "CanRequireOnRagfair": false
+      }
     },
     "locales": {
       "en": {
@@ -2883,8 +2865,8 @@
     "modSlot": [
       "mod_magazine"
     ],
-    "fleaPriceRoubles": 859,
-    "handbookPriceRoubles": 784,
+    "fleaPriceRoubles": 6754,
+    "handbookPriceRoubles": 4253,
     "addtoTraders": false,
     "addtoBots": false,
     "addtoStaticLootContainers": true,
@@ -2927,7 +2909,7 @@
           },
           "barters": [
             {
-              "count": 1101,
+              "count": 4424,
               "_tpl": "MONEY_ROUBLES"
             }
           ]
