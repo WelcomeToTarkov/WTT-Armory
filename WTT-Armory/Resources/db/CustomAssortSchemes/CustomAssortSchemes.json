@@ -8677,6 +8677,48 @@
                 "upd": {
                     "SpawnedInSession": true
                 }   
+            },
+            {
+            "_id": "6977a4ff4f5dd7775c746c0d",
+            "_tpl": "69777201f57d45a2ec02aafc",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 1,
+                "UnlimitedCount": false,
+                "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+                },
+                "FireMode": {
+                "FireMode": "single"
+                },
+                "BuyRestrictionMax": 1
+            }
+            },
+            {
+            "_id": "6977a4fb4f5dd7775c746b93",
+            "_tpl": "69777201f57d45a2ec02aafe",
+            "parentId": "6977a4ff4f5dd7775c746c0d",
+            "slotId": "mod_sight_rear",
+            "upd": {
+                "Sight": {
+                "ScopesCurrentCalibPointIndexes": [
+                    0
+                ],
+                "ScopesSelectedModes": [
+                    0
+                ],
+                "SelectedScope": 0,
+                "ScopeZoomValue": 0
+                }
+            }
+            },
+            {
+            "_id": "6977a4fb4f5dd7775c746b94",
+            "_tpl": "5a01c29586f77474660c694c",
+            "parentId": "6977a4ff4f5dd7775c746c0d",
+            "slotId": "mod_magazine"
             }
         ],
         "barter_scheme": {
@@ -8987,6 +9029,14 @@
                         "_tpl": "5449016a4bdc2d6f028b456f"    
                     }
                 ]
+            ],
+            "6977a4ff4f5dd7775c746c0d": [
+            [
+                {
+                "count": 30219,
+                "_tpl": "5449016a4bdc2d6f028b456f"
+                }
+            ]
             ]
         },
         "loyal_level_items": {
@@ -9026,7 +9076,8 @@
             "68d764be0875417cf003f4a9": 1,
             "68fe746bc8fc1ddeec23fdb7": 1,
             "692fa399ecf82e70940ee4bd": 3,
-            "6973fc153ee60d4938b21bcb": 4
+            "6973fc153ee60d4938b21bcb": 4,
+            "6977a4ff4f5dd7775c746c0d": 2
         }
     },
     "JAEGER": {

@@ -1,0 +1,262 @@
+{
+  "69777201f57d45a2ec02aafc": {
+    "itemTplToClone": "5ac66d2e5acfc43b321d4b53",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponSA01/sa01_container.bundle",
+        "rcid": ""
+      },
+        "RecoilForceBack": 275,
+        "RecoilForceUp": 112,
+        "Weight": 2.6,
+        "Ergonomics": 51,
+        "Height": 2,
+        "CompactHandling": false,
+        "Foldable": false,
+        "Slots": [
+            {
+              "_name": "mod_sight_rear",
+              "_id": "5ac66d9b5acfc40016339982",
+              "_parent": "5ac66d9b5acfc4001633997a",
+              "_props": {
+                "filters": [
+                  {
+                    "Filter": [
+                      "69777201f57d45a2ec02aafe"
+                    ],
+                    "Shift": 0
+                  }
+                ]
+              },
+              "_required": true,
+              "_mergeSlotWithChildren": false,
+              "_proto": "55d30c4c4bdc2db4468b457e"
+            },
+            {
+              "_name": "mod_magazine",
+              "_id": "5ac66d2e5acfc43b321d4b5d",
+              "_parent": "5ac66d2e5acfc43b321d4b53",
+              "_props": {
+                "filters": [
+                  {
+                    "AnimationIndex": -1,
+                    "Filter": [
+                      "59e5d83b86f7745aed03d262",
+                      "5a01c29586f77474660c694c",
+                      "5ac66bea5acfc43b321d4aec",
+                      "59d625f086f774661516605d",
+                      "5b1fd4e35acfc40018633c39",
+                      "5a0060fc86f7745793204432",
+                      "59e5f5a486f7746c530b3ce2",
+                      "5b1fb3e15acfc4001637f068",
+                      "59d6272486f77466146386ff",
+                      "5e21a3c67e40bd02257a008a",
+                      "5cbdc23eae9215001136a407",
+                      "5c6175362e221600133e3b94",
+                      "59fafc5086f7740dbe19f6c3",
+                      "59fafc9386f774067d462453",
+                      "5cfe8010d7ad1a59283b14c6",
+                      "6272874a6c47bd74f92e2087",
+                      "64b9cf0ac12b9c38db26923a"
+                    ]
+                  }
+                ]
+              },
+              "_required": false,
+              "_mergeSlotWithChildren": false,
+              "_proto": "55d30c394bdc2dae468b4577"
+            }
+        ]
+    },
+    "locales": {
+      "en": {
+        "name": "Konstantinov SA-1 7.62x39 assault rifle",
+        "shortName": "SA-1",
+        "description": "The SA-1 was designed by Alexander Konstantinov who was working at ZiD at the time, who wanted to make a rifle that was comfortable in off-hand full-auto shooting. To achieve this, the SA-01 was designed as an 'inverted bullpup', where the pistol grip was placed above the receiver. This design was deemed too unwieldy and radical, and as such the weapon was evolved into the SA-001, which was a more conventional weapon."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 25361,
+    "handbookPriceRoubles": 18700,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": true,
+    "weaponPresets": [
+        {
+          "_id": "6977a4ff4f5dd7775c746c10",
+          "_type": "Preset",
+          "_changeWeaponName": false,
+          "_name": "SA01",
+          "_parent": "6977a4ff4f5dd7775c746c11",
+          "_items": [
+            {
+              "_id": "6977a4ff4f5dd7775c746c11",
+              "_tpl": "69777201f57d45a2ec02aafc",
+              "upd": {
+                "Repairable": {
+                  "Durability": 100,
+                  "MaxDurability": 100
+                },
+                "FireMode": {
+                  "FireMode": "single"
+                }
+              }
+            },
+            {
+              "_id": "6977a4fb4f5dd7775c746b93",
+              "_tpl": "69777201f57d45a2ec02aafe",
+              "parentId": "6977a4ff4f5dd7775c746c11",
+              "slotId": "mod_sight_rear",
+              "upd": {
+                "Sight": {
+                  "ScopesCurrentCalibPointIndexes": [
+                    0
+                  ],
+                  "ScopesSelectedModes": [
+                    0
+                  ],
+                  "SelectedScope": 0,
+                  "ScopeZoomValue": 0
+                }
+              }
+            },
+            {
+              "_id": "6977a4fb4f5dd7775c746b94",
+              "_tpl": "5a01c29586f77474660c694c",
+              "parentId": "6977a4ff4f5dd7775c746c11",
+              "slotId": "mod_magazine"
+            }
+          ],
+          "_encyclopedia": "69777201f57d45a2ec02aafc"
+        }
+    ],
+    "traders": {
+      "MECHANIC": {
+        "69777201f57d45a2ec02aafd": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 30862,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Level2": 2000,
+        "Level3": 2200,
+        "Name": "SA-1",
+        "Templates": [
+          "69777201f57d45a2ec02aafc"
+        ]
+      }
+    ]
+  },
+  "69777201f57d45a2ec02aafe": {
+    "itemTplToClone": "5ac733a45acfc400192630e2",
+    "parentId": "55818ac54bdc2d5b648b456e",
+    "handbookParentId": "5b5f746686f77447ec5d7708",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "WeaponSA01/sa01_rear.bundle",
+        "rcid": ""
+      },
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "SA-01 Rear Sight",
+        "shortName": "SA01 R",
+        "description": "Standard-issue rear sight for SA-01 assault rifles."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_sight_rear"
+    ],
+    "fleaPriceRoubles": 1686,
+    "handbookPriceRoubles": 867,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 1
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "SKIER": {
+        "69777201f57d45a2ec02aaff": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 3242,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+  }
+}
