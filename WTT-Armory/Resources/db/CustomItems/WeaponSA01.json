@@ -15,6 +15,7 @@
         "Height": 2,
         "CompactHandling": false,
         "Foldable": false,
+        "isChamberLoad": false,
         "Slots": [
             {
               "_name": "mod_sight_rear",
