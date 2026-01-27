@@ -140,8 +140,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45 assault rifle",
-        "shortName": "MSBS",
+        "name": "FB Radom MSBS Grot M1 5.56x45 assault rifle",
+        "shortName": "MSBS Grot",
         "description": "The MSBS Grot is a Polish modular assault rifle developed by FB \"Łucznik\" Radom. It is designed to be easily configurable for different roles, featuring quick-change barrels and ambidextrous controls."
       }
     },
@@ -424,8 +424,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45 assault rifle FDE",
-        "shortName": "MSBS",
+        "name": "FB Radom MSBS Grot M1 5.56x45 assault rifle (FDE)",
+        "shortName": "MSBS Grot",
         "description": "The MSBS Grot is a Polish modular assault rifle developed by FB \"Łucznik\" Radom. It is designed to be easily configurable for different roles, featuring quick-change barrels and ambidextrous controls."
       }
     },
@@ -613,9 +613,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot polymer folding stock FDE",
+        "name": "MSBS Grot polymer folding stock (FDE)",
         "shortName": "MSBS Fold.",
-        "description": "Standard polymer folding stock for the MSBS Grot 5.56x45mm assault rifle."
+        "description": "Standard polymer folding stock for the MSBS Grot 5.56x45mm assault rifle. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
@@ -715,8 +715,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot MLOK Handguard",
-        "shortName": "MSBS HG",
+        "name": "FB Radom MSBS Grot M-LOK carbine-length handguard",
+        "shortName": "MSBS carbine",
         "description": "Standard MLOK handguard for the MSBS Grot 5.56x45mm assault rifle."
       }
     },
@@ -869,9 +869,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot MLOK Handguard FDE",
-        "shortName": "MSBS HG",
-        "description": "Standard MLOK handguard for the MSBS Grot 5.56x45mm assault rifle."
+        "name": "FB Radom MSBS Grot M-LOK carbine-length handguard (FDE)",
+        "shortName": "MSBS carbine",
+        "description": "Standard carbine-length MLOK handguard for the MSBS Grot 5.56x45mm assault rifle. Flat Dark Earth version."
       }
     },
   "addtoInventorySlots": [],
@@ -1178,7 +1178,7 @@
     "locales": {
       "en": {
         "name": "MSBS Grot 5.56x45 Receiver",
-        "shortName": "MSBS",
+        "shortName": "MSBS upper",
         "description": "Standard receiver for the MSBS Grot 5.56x45mm assault rifle."
       }
     },
@@ -1465,8 +1465,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45 Receiver FDE",
-        "shortName": "MSBS",
+        "name": "MSBS Grot 5.56x45 Receiver (FDE)",
+        "shortName": "MSBS upper",
         "description": "Standard receiver for the MSBS Grot 5.56x45mm assault rifle."
       }
     },
@@ -1582,9 +1582,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45 10.5 inch Receiver",
-        "shortName": "MSBS 10.5",
-        "description": "A 10.5(265mm) inch barrel for the MSBS Grot 5.56x45 rifle."
+        "name": "MSBS Grot 5.56x45 10.5 inch barrel",
+        "shortName": "MSBS 10.5\"",
+        "description": "A 10.5 (266mm) inch barrel for the MSBS Grot 5.56x45 rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -1700,8 +1700,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45 16 inch Receiver",
-        "shortName": "MSBS 16",
+        "name": "MSBS Grot 5.56x45 16 inch barrel",
+        "shortName": "MSBS 16\"",
         "description": "A 16(406mm) inch barrel for the MSBS Grot 5.56x45 rifle."
       }
     },
@@ -1763,8 +1763,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45 Flash Hider",
-        "shortName": "MSBS",
+        "name": "FB Radom MSBS Grot 5.56x45 standard flash hider",
+        "shortName": "MSBS FH",
         "description": "A standard-issue 5.56x45 flash hider for the MSBS Grot assault rifle"
       }
     },
@@ -1842,12 +1842,15 @@
       "Prefab": {
         "path": "WeaponMSBS/msbs_silencer.bundle",
         "rcid": ""
-      }
+      },
+      "Loudness": -23,
+      "Recoil": -8,
+      "Ergonomics": -23
     },
     "locales": {
       "en": {
-        "name": "STEEL Pegasus 5.56x45 Silencer",
-        "shortName": "Pegasus",
+        "name": "STEEL Pegasus XL Air 5.56x45 sound suppressor",
+        "shortName": "Pegasus XL",
         "description": "The STEEL Pegasus is a high-performance suppressor line manufactured by the Ukrainian company STEEL. Despite the brand name, the Pegasus series is primarily constructed from Grade 6 Titanium (BT6) rather than steel, chosen for its heat resistance and lightweight properties."
       }
     },
@@ -1929,8 +1932,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot Pistol Grip",
-        "shortName": "MSBS Grip",
+        "name": "FB Radom MSBS Grot pistol grip",
+        "shortName": "MSBS PG",
         "description": "Standard pistol grip for the MSBS Grot 5.56x45mm assault rifle."
       }
     },
@@ -2006,8 +2009,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot Pistol Grip FDE",
-        "shortName": "MSBS Grip",
+        "name": "FB Radom MSBS Grot pistol grip (FDE)",
+        "shortName": "MSBS PG",
         "description": "Standard pistol grip for the MSBS Grot 5.56x45mm assault rifle."
       }
     },
@@ -2339,8 +2342,8 @@
     },
     "locales": {
       "en": {
-        "name": "Magpul Masada extended hybrid handguard",
-        "shortName": "Masada Ext.",
+        "name": "FB Radom MSBS Grot M-LOK extended handguard",
+        "shortName": "MSBS Grot Ext.",
         "description": "Extended hybrid handguard for the Magpul Masada 5.56x45mm assault rifle."
       }
     },
@@ -2492,9 +2495,9 @@
     },
     "locales": {
       "en": {
-        "name": "Magpul Masada extended hybrid handguard FDE",
-        "shortName": "Masada Ext.",
-        "description": "Extended hybrid handguard for the Magpul Masada 5.56x45mm assault rifle."
+        "name": "FB Radom MSBS Grot M-LOK extended handguard (FDE)",
+        "shortName": "MSBS Grot Ext.",
+        "description": "Extended hybrid handguard for the Magpul Masada 5.56x45mm assault rifle. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
@@ -2523,9 +2526,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot A2 M-LOK Foregrip",
-        "shortName": "MSBS FG A2",
-        "description": "An ergonomic A2-style foregrip for the MSBS Grot 5.56x45mm assault rifle featuring M-LOK mounting system."
+        "name": "MSBS Grot A2 M-LOK foregrip",
+        "shortName": "MSBS FG",
+        "description": "An ergonomic foregrip for the MSBS Grot 5.56x45mm assault rifle featuring M-LOK mounting system."
       }
     },
     "addtoInventorySlots": [],
@@ -2606,9 +2609,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot A2 M-LOK Foregrip FDE",
-        "shortName": "MSBS FG A2",
-        "description": "An ergonomic A2-style foregrip for the MSBS Grot 5.56x45mm assault rifle featuring M-LOK mounting system."
+        "name": "MSBS Grot A2 M-LOK foregrip (FDE)",
+        "shortName": "MSBS FG",
+        "description": "An ergonomic foregrip for the MSBS Grot 5.56x45mm assault rifle featuring M-LOK mounting system. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
@@ -2689,8 +2692,8 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45mm 30-Round Magazine",
-        "shortName": "MSBS Mag",
+        "name": "AR-15 FB Radom Grot polymer STANAG 30-round magazine",
+        "shortName": "FB Grot",
         "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle."
       }
     },
@@ -2772,9 +2775,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45mm 30-Round Magazine FDE",
+        "name": "AR-15 FB Radom Grot polymer STANAG 30-round magazine (FDE)",
         "shortName": "MSBS Mag",
-        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle."
+        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle. Flat Dark Earth version."
       }
     },
     "addtoInventorySlots": [],
@@ -2855,9 +2858,9 @@
     },
     "locales": {
       "en": {
-        "name": "MSBS Grot 5.56x45mm 30-Round Magazine Blue Polycarbonate",
+        "name": "AR-15 FB Radom Grot polymer STANAG 30-round magazine (Polycarbonate)",
         "shortName": "MSBS Mag",
-        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle."
+        "description": "A 30-round magazine for the MSBS Grot 5.56x45mm assault rifle. Blue Polycarbonate version."
       }
     },
     "addtoInventorySlots": [],
