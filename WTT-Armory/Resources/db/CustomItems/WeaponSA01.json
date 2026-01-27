@@ -190,9 +190,9 @@
     },
     "locales": {
       "en": {
-        "name": "SA-01 Rear Sight",
-        "shortName": "SA01 R",
-        "description": "Standard-issue rear sight for SA-01 assault rifles."
+        "name": "SA-1 rear sight",
+        "shortName": "SA01 RS",
+        "description": "Standard-issue rear sight for SA-1 assault rifles."
       }
     },
     "addtoInventorySlots": [],
