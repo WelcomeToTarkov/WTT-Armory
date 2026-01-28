@@ -85,6 +85,7 @@ namespace WTTArmory.Helpers
         private const string AK107 = "695ab544a219218449041700";
         private const string GROT = "696ce75f73805e693401aba0";
         private const string GROTFDE = "696fe2ebcf7469bf3805173f";
+        private const string SA01 = "69777201f57d45a2ec02aafc";
         
         
         // Weapon Mods
@@ -134,7 +135,7 @@ namespace WTTArmory.Helpers
                 IWI_TAVOR_X95_FDE, KNIGHTS_ARMAMENT_PDW, PATRIOT, REMINGTON_ACR,
                 REMINGTON_ACR_FDE, WAGES_OF_SIN_AR15, WAGES_OF_SIN_AR15_FDE,
                 WAGES_OF_SIN_AR15_RED, ZASTAVA_M76, SVD_DRAGUNOV, SVD_DRAGUNOV_GREEN,
-                AG042, AG043, HK_XM8FDE, MASADA, MASADAFDE, MASADABOSS, F2000, F2000FDE, GROT,GROTFDE, AK107, A545
+                AG042, AG043, HK_XM8FDE, MASADA, MASADAFDE, MASADABOSS, F2000, F2000FDE, GROT,GROTFDE, AK107, A545, SA01
             ]);
 
             // ====================== SKIER QUESTS ======================
