@@ -931,7 +931,7 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
+    "addtoModSlots": false,
     "modSlot": [
       "mod_magazine"
     ],

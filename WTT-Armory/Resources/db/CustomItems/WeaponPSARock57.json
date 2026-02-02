@@ -538,6 +538,7 @@
         "path": "WeaponPSARock57/rock57_plate.bundle",
         "rcid": ""
       },
+	  "Slots":[],
       "ExaminedByDefault": true,
       "Weight": 0.006,
       "Ergonomics": 0
