@@ -328,7 +328,7 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 5.56x45 assault rifle FDE",
+        "name": "FN F2000 5.56x45 assault rifle (FDE)",
         "shortName": "F2000",
         "description": "The FN F2000 is a 5.56×45mm NATO bullpup rifle, designed by FN Herstal in Belgium. Its compact bullpup design includes a telescopic sight, a non-adjustable fixed notch and front blade secondary sight. The weapon has fully ambidextrous controls, allowed by a unique ejection system, ejecting spent cartridge casings forward and to the right side of the weapon, through a tube running above the barrel. The F2000 made its debut in March 2001 at the IDEX defence exhibition held in Abu Dhabi, in the United Arab Emirates."
       }
@@ -521,7 +521,7 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 5.56x45 Receiver",
+        "name": "FN F2000 5.56x45 receiver",
         "shortName": "F2000",
         "description": "Receiver for FN F2000 5.56x45 assault rifle. The rifle does not have a hold-open device; the bolt does not stay back after the last round is fired. The charging handle is placed on the left side of the receiver, just above the hand guard, and can be operated by left-handed shooters. There are no access points for the possible ingress of dirt or debris; the charging handle slot is sealed."
       }
@@ -647,8 +647,8 @@
     "locales": {
       "en": {
         "name": "FN F2000 5.56x45 15 inch Barrel",
-        "shortName": "F2000",
-        "description": "A 15 inch barrel for the FN F2000."
+        "shortName": "F2000 15\"",
+        "description": "A 15 (380mm) inch barrel for the FN F2000."
       }
     },
     "addtoInventorySlots": [],
@@ -765,8 +765,8 @@
     "locales": {
       "en": {
         "name": "FN F2000 5.56x45 17 inch Barrel",
-        "shortName": "F2000",
-        "description": "A 17 inch barrel for the FN F2000."
+        "shortName": "F2000 17\"",
+        "description": "A 17 (430mm) inch barrel for the FN F2000."
       }
     },
     "addtoInventorySlots": [],
@@ -890,8 +890,8 @@
     "locales": {
       "en": {
         "name": "FN F2000 5.56x45 14 inch Barrel",
-        "shortName": "F2000",
-        "description": "A 14 inch barrel for the FN F2000."
+        "shortName": "F2000 14\"",
+        "description": "A 14 (355mm) inch barrel for the FN F2000."
       }
     },
     "addtoInventorySlots": [],
@@ -1070,8 +1070,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 5.56x45 Standard Top Rail",
-        "shortName": "F2000 Rail",
+        "name": "FN F2000 5.56x45 standard top rail",
+        "shortName": "F2000 rail",
         "description": "The standard top rail for the FN F2000 assault rifle, allowing for the attachment of various optics and sights."
       }
     },
@@ -1159,8 +1159,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 Standard Handguard",
-        "shortName": "F2000",
+        "name": "FN F2000 handguard",
+        "shortName": "F2000 std.",
         "description": "The standard handguard for the FN F2000 assault rifle, designed to provide a comfortable grip."
       }
     },
@@ -1356,8 +1356,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 Tri-Rail Handguard",
-        "shortName": "F2000 TR",
+        "name": "FN F2000 Tri-Rail handguard",
+        "shortName": "F2000 Tri.",
         "description": "The tri-rail handguard for the FN F2000 assault rifle, includes a triple rail handguard for add-on accessories."
       }
     },
@@ -1538,8 +1538,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 Monolith Handguard",
-        "shortName": "F2000 M",
+        "name": "FN F2000 Monolith handguard",
+        "shortName": "Monolith",
         "description": "The monolith handguard for the FN F2000 assault rifle, includes a double rail handguard for add-on accessories and a fixed foregrip."
       }
     },
@@ -1604,8 +1604,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 Rear Flip-Up Sight",
-        "shortName": "F2000 R",
+        "name": "FN F2000 Rear flip-up sight",
+        "shortName": "F2000 RS",
         "description": "The FN F2000 rear flip-up sight is a robust and reliable iron sight designed to provide quick target acquisition and enhanced accuracy for shooters using the FN F2000 assault rifle."
       }
     },
@@ -1690,8 +1690,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000S Rear Flip-Up Sight",
-        "shortName": "F2000 R",
+        "name": "FN F2000S Rear flip-up sight",
+        "shortName": "F2000S RS",
         "description": "The FN F2000S rear flip-up sight raised for the Slovenian variant of the FN F2000 assault rifle, designed to provide quick target acquisition and enhanced accuracy."
       }
     },
@@ -1777,8 +1777,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 Front Sight",
-        "shortName": "F2000 F",
+        "name": "FN F2000 front sight",
+        "shortName": "F2000 FS",
         "description": "The FN F2000 front sight is a robust and reliable iron sight designed to provide quick target acquisition and enhanced accuracy for shooters using the FN F2000 assault rifle."
       }
     },
@@ -2021,7 +2021,7 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000S 5.56x45 Slovenian Top Rail",
+        "name": "FN F2000 Slovenian top rail",
         "shortName": "F2000S Rail",
         "description": "The slovenian top rail for the FN F2000 assault rifle, It incorporates an elevated upper Picatinny rail that also doubles as a carrying handle."
       }
@@ -2108,8 +2108,8 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000S Front Sight",
-        "shortName": "F2000S F",
+        "name": "FN F2000 Slovenian front sight",
+        "shortName": "F2000S FS",
         "description": "Slightly raised front sight for the Fn F2000S assault rifle."
       }
     },
@@ -2195,7 +2195,7 @@
     "locales": {
       "en": {
         "name": "FN F2000 5.56x45 flash hider",
-        "shortName": "F2000",
+        "shortName": "F2000 FH",
         "description": "A standard-issue 5.56x45 flash hider for the FN F2000 assault rifle"
       }
     },
@@ -2281,7 +2281,7 @@
     "locales": {
       "en": {
         "name": "FN F2000 5.56x45 Negative flash hider",
-        "shortName": "F2000 L",
+        "shortName": "F2000 NFH",
         "description": "A longer 5.56x45 flash hider for the FN F2000 assault rifle that reduces muzzle flash more effectively than the standard model."
       }
     },
@@ -2431,7 +2431,7 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 1.6x Scope",
+        "name": "FN F2000 1.6x optic sight",
         "shortName": "F2000 1.6x",
         "description": "A 1.6x magnification scope designed for the FN F2000 assault rifle, providing enhanced target acquisition and accuracy at short ranges."
       }
@@ -2521,7 +2521,7 @@
     },
     "locales": {
       "en": {
-        "name": "FN F2000 5.56x45 Scope Cover",
+        "name": "FN F2000 scope cover",
         "shortName": "F2000 SC",
         "description": "A protective scope cover for the FN F2000 assault rifle's optic, designed to shield the lens from dust, debris, and damage."
       }
