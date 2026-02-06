@@ -1441,7 +1441,8 @@
         "rcid": ""
       },
 	  "ExtraSizeLeft": 1,
-      "ExtraSizeUp": 1,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 1,
 	  "Weight": 0.47,
       "Slots": [
         {
@@ -1683,7 +1684,8 @@
         "rcid": ""
       },
 	  "ExtraSizeLeft": 1,
-      "ExtraSizeUp": 1,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 1,
 	  "Weight": 0.476,
       "Slots": [
         {
