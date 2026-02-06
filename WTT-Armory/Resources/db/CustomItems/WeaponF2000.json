@@ -1974,31 +1974,6 @@
         "_proto": "55d30c4c4bdc2db4468b457e"
       },
       {
-        "_name": "mod_tactical",
-        "_id": "5ea16acdfadf1d18c87b0788",
-        "_parent": "5ea16acdfadf1d18c87b0784",
-        "_props": {
-          "filters": [
-            {
-              "Filter": [
-                "57fd23e32459772d0805bcf1",
-                "544909bb4bdc2d6f028b4577",
-                "5d10b49bd7ad1a1a560708b0",
-                "5c06595c0db834001a66af6c",
-                "5a7b483fe899ef0016170d15",
-                "61605d88ffa6e502ac5e7eeb",
-                "5c5952732e2216398b5abda2",
-                "644a3df63b0b6f03e101e065"
-              ],
-              "Shift": 0
-            }
-          ]
-        },
-        "_required": false,
-        "_mergeSlotWithChildren": false,
-        "_proto": "55d30c4c4bdc2db4468b457e"
-      },
-      {
         "_name": "mod_sight_rear",
         "_id": "55d35e074bdc2d882f8b456c",
         "_parent": "55d355e64bdc2d962f8b4569",
