@@ -641,6 +641,7 @@
         "path": "WeaponMSBS/msbs_standard_handguard.bundle",
         "rcid": ""
       },
+      "ExtraSizeLeft": 0,
       "ExtraSizeRight": 0,
       "Slots": [
           {
@@ -795,6 +796,7 @@
         "path": "WeaponMSBS/msbs_standard_handguard_fde.bundle",
         "rcid": ""
       },
+      "ExtraSizeLeft": 0,
       "ExtraSizeRight": 0,
       "Slots": [
           {
@@ -1641,7 +1643,8 @@
         "path": "WeaponMSBS/msbs_long_barrel.bundle",
         "rcid": ""
       },
-      "ExtraSizeleft": 2,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeRight": 0,
       "Slots": [
         {
           "_name": "mod_muzzle",
@@ -2222,7 +2225,8 @@
 	  "RaidModdable": false,
 	  "Recoil": -3,
 	  "Weight": 0.71,
-	  "ExtraSizeLeft": 2,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
 	  "Width": 3,
       "Slots": [
           {
@@ -2375,7 +2379,8 @@
 	  "RaidModdable": false,
 	  "Recoil": -3,
 	  "Weight": 0.71,
-	  "ExtraSizeLeft": 2,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
 	  "Width": 3,
       "Slots": [
           {
