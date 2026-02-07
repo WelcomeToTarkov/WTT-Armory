@@ -28,7 +28,7 @@ public record ModMetadata : AbstractModMetadata
     public override string License { get; init; } = "MIT";
 }
 
-[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 20)]
+[Injectable(TypePriority = OnLoadOrder.PostDBModLoader + 2)]
 public class WTTArmory(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     ConfigServer configServer,
