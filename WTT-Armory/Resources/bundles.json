@@ -1048,6 +1048,14 @@
       ]
     },
     {
+      "key": "StaticSpawns/bodies.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "WeaponMasada/magpul_masada_sight_back.bundle",
       "dependencyKeys": [
         "shaders",
