@@ -523,7 +523,9 @@
             "filters": [
               {
                 "Filter": [
-                  "690ec4df1bfed0b4e6db5181"
+                  "690ec4df1bfed0b4e6db5181",
+                  "699c9f633ba4c14a55002932",
+                  "699c9f633ba4c14a55002933"
                 ],
                 "Shift": 0
               }
@@ -554,7 +556,9 @@
                   "5d00e0cbd7ad1a6c6566a42d",
                   "5d00f63bd7ad1a59283b1c1e",
                   "63f4ba71f31d4a33b87bd046",
-                  "647de824196bf69818044c93"
+                  "647de824196bf69818044c93",
+                  "699c9f633ba4c14a55002934",
+                  "699c9f633ba4c14a55002935"
                 ],
                 "Shift": 0
               }
@@ -719,5 +723,304 @@
     "weaponPresets": [],
     "traders": {},
     "masterySections": []
+  },
+  "699c9f633ba4c14a55002932": {
+    "itemTplToClone": "55d35ee94bdc2d61338b4568",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponRO991/lafrance_barrel.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+                "5c0e2f5cd174af02a012cfc9",
+                "619b5db699fb192e7430664f",
+                "5b2cfa535acfc432ff4db7a0",
+                "5ae30db85acfc408fb139a05",
+                "5c9a25172e2216000f20314e",
+                "55f84c3c4bdc2d5f408b4576",
+                "588b56d02459771481110ae2",
+                "5c9a26332e2216001219ea70",
+                "5ea16ada09aa976f2e7a51be",
+                "5ea16acdfadf1d18c87b0784",
+                "55d459824bdc2d892f8b4573",
+                "5d122e7bd7ad1a07102d6d7f",
+                "5d123102d7ad1a004e475fe5",
+                "5d4405f0a4b9361e6a4e6bd9",
+                "5c78f2792e221600106f4683",
+                "5c78f26f2e221601da3581d1",
+                "5c78f2492e221600114c9f04",
+                "5c78f2612e221600114c9f0d",
+                "6034e3e20ddce744014cb878",
+                "6034e3d953a60014f970617b",
+                "6034e3cb0ddce744014cb870",
+                "5c6d5d8b2e221644fc630b39",
+                "5d00e0cbd7ad1a6c6566a42d",
+                "5d00f63bd7ad1a59283b1c1e",
+                "6087e0336d0bd7580617bb7a",
+                "595cfa8b86f77427437e845b",
+                "595cf16b86f77427440c32e2",
+                "63888bbd28e5cc32cc09d2b6",
+                "63f4ba71f31d4a33b87bd046",
+                "640b20359ab20e15ee445fa9",
+                "647de824196bf69818044c93"
+      ],
+      "CenterOfImpact": 0.08,
+	  "CoolFactor": 1.05,
+	  "Ergonomics": -8,
+	  "HeatFactor": 0.99,
+	  "Recoil": -5,
+	  "Weight": 0.372,
+      "Slots": [
+        {
+          "_id": "690ec55312afda6f602a3835",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "690ec4df1bfed0b4e6db5181",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cf6935bd7f00c06585fb791",
+                  "5b3a16655acfc40016387a2a",
+                  "58949dea86f77409483e16a8",
+                  "59bffc1f86f77435b128b872",
+                  "5c7e8fab2e22165df16b889b",
+                  "5a9fb739a2750c003215717f",
+                  "5c6165902e22160010261b28",
+                  "5a32a064c4a28200741e22de"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Colt RO991 9x19 8 inch barrel",
+        "shortName": "RO991 8\"",
+        "description": "A 8 inch (203mm) barrel for AR-15 platform weapons for 9x19 Parabellum ammo."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 21103,
+    "handbookPriceRoubles": 17465,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
+  },
+  "699c9f633ba4c14a55002933": {
+    "itemTplToClone": "55d3632e4bdc2d972f8b4569",
+    "parentId": "550aa4cd4bdc2dd8348b456c",
+    "handbookParentId": "5b5f731a86f774093e6cb4f9",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponRO991/colt_silenced_barrel.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+                "5c0e2f5cd174af02a012cfc9",
+                "619b5db699fb192e7430664f",
+                "5b2cfa535acfc432ff4db7a0",
+                "5ae30db85acfc408fb139a05",
+                "5c9a25172e2216000f20314e",
+                "55f84c3c4bdc2d5f408b4576",
+                "588b56d02459771481110ae2",
+                "5c9a26332e2216001219ea70",
+                "5ea16ada09aa976f2e7a51be",
+                "5ea16acdfadf1d18c87b0784",
+                "55d459824bdc2d892f8b4573",
+                "5d122e7bd7ad1a07102d6d7f",
+                "5d123102d7ad1a004e475fe5",
+                "5d4405f0a4b9361e6a4e6bd9",
+                "5c78f2792e221600106f4683",
+                "5c78f26f2e221601da3581d1",
+                "5c78f2492e221600114c9f04",
+                "5c78f2612e221600114c9f0d",
+                "6034e3e20ddce744014cb878",
+                "6034e3d953a60014f970617b",
+                "6034e3cb0ddce744014cb870",
+                "5c6d5d8b2e221644fc630b39",
+                "5d00e0cbd7ad1a6c6566a42d",
+                "5d00f63bd7ad1a59283b1c1e",
+                "6087e0336d0bd7580617bb7a",
+                "595cfa8b86f77427437e845b",
+                "595cf16b86f77427440c32e2",
+                "63888bbd28e5cc32cc09d2b6",
+                "63f4ba71f31d4a33b87bd046",
+                "640b20359ab20e15ee445fa9",
+                "647de824196bf69818044c93"
+      ],
+      "CenterOfImpact": 0.08,
+	  "CoolFactor": 0.98,
+	  "Ergonomics": -9,
+	  "HeatFactor": 1.08,
+	  "Recoil": -7,
+	  "Weight": 0.445,
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Colt RO991 9x19 13.8 inch barrel",
+        "shortName": "RO991 13.8\"",
+        "description": "A special 13.8 inch (355mm) barrel meant for the Colt SMG D.E.A silenced handguard"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 42965,
+    "handbookPriceRoubles": 25524,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {},
+    "masterySections": []
+  },
+  "699c9f633ba4c14a55002934": {
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponRO991/colt_silenced_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "690ec4df1bfed0b4e6db5181",
+        "699c9f633ba4c14a55002932"
+      ],
+      "Weight": 0.389,
+      "Ergonomics": 6,
+	    "CoolFactor": 0.71,
+	    "HeatFactor": 1.67,
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Colt RO991 9x19 D.E.A 13.8 inch handguard",
+        "shortName": "RO991 13.8\"",
+        "description": "A special 13.8 inch (355mm) handguard meant for the Colt SMG D.E.A silenced barrel"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 24945,
+    "handbookPriceRoubles": 17473,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ]
+  },
+  "699c9f633ba4c14a55002935": {
+    "itemTplToClone": "5c78f2792e221600106f4683",
+    "parentId": "55818a104bdc2db9688b4569",
+    "handbookParentId": "5b5f75e486f77447ec5d7712",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "WeaponRO991/lafrance_handguard.bundle",
+        "rcid": ""
+      },
+      "ConflictingItems": [
+        "690ec4df1bfed0b4e6db5181",
+        "699c9f633ba4c14a55002933"
+      ],
+      "Weight": 0.285,
+      "Ergonomics": 10,
+	    "CoolFactor": 1.0042,
+	    "HeatFactor": 1.058,
+      "Slots": [
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Colt RO991 9x19 Special LaFrance handguard",
+        "shortName": "RO991 DOE",
+        "description": "A special handguard inspired by the LaFrance DOE M16K SMG."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 8800,
+    "handbookPriceRoubles": 6467,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 7
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 6
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 5
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 1
+      }
+    ]
   }
 }
