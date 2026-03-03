@@ -1360,8 +1360,8 @@
                 "StackObjectsCount": 1,
                 "UnlimitedCount": false,
                 "Repairable": {
-                "Durability": 69,
-                "MaxDurability": 69
+                "Durability": 100,
+                "MaxDurability": 100
                 },
                 "FireMode": {
                 "FireMode": "single"
