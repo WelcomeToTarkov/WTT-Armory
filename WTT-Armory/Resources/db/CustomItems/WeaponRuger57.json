@@ -8,6 +8,7 @@
         "path": "WeaponRuger57/weapon_ruger57_container.bundle",
         "rcid": ""
       },
+        "defMagType": "692f72085371aadbbb0ada24",
         "Slots": [
             {
                 "_name": "mod_barrel",
