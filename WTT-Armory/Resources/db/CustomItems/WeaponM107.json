@@ -416,6 +416,9 @@
         "path": "WeaponM107/m107_magazine_drum.bundle",
         "rcid": ""
       },
+	  "CheckOverride": 1,
+	  "CheckTimeModifier": 30,
+	  "LoadUnloadModifier": 20,
       "Ergonomics": -3,
       "Weight": 1.96,
       "magAnimationIndex": 1,
