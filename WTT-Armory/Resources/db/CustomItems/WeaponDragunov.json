@@ -177,7 +177,7 @@
       "en": {
         "name": "SVD 7.62x54R sniper rifle",
         "shortName": "SVD",
-        "description": "The SVD was designed to serve in a squad support role to provide precise long-range engagement capabilities to ordinary troops following the Warsaw Pact adoption of the 7.62×39mm intermediate cartridge and assault rifles as standard infantry weapon systems."
+        "description": "The SVD (Snáyperskaya Vintóvka Dragunóva - \"Dragunov's Sniper Rifle\") sniper rifle was was designed to serve in a squad support role to provide precise long-range engagement capabilities to ordinary troops following the Warsaw Pact adoption of the 7.62×39mm intermediate cartridge and assault rifles as standard infantry weapon systems. Chambered in 7.62x54R ammo."
       }
     },
     "addtoInventorySlots": [],
@@ -500,7 +500,7 @@
       "en": {
         "name": "SVD 7.62x54R sniper rifle (Camo)",
         "shortName": "SVD",
-        "description": "The SVD was designed to serve in a squad support role to provide precise long-range engagement capabilities to ordinary troops following the Warsaw Pact adoption of the 7.62x39mm intermediate cartridge and assault rifles as standard infantry weapon systems."
+        "description": "The SVD (Snáyperskaya Vintóvka Dragunóva - \"Dragunov's Sniper Rifle\") sniper rifle was was designed to serve in a squad support role to provide precise long-range engagement capabilities to ordinary troops following the Warsaw Pact adoption of the 7.62×39mm intermediate cartridge and assault rifles as standard infantry weapon systems. Chambered in 7.62x54R ammo. Unique Camo Paint version."
       }
     },
     "addtoInventorySlots": [],
