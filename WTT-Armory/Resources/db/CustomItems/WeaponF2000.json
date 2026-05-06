@@ -90,7 +90,8 @@
           "_proto": "55d30c4c4bdc2db4468b457e"
         }
       ],
-      "isChamberLoad": false
+      "isChamberLoad": false,
+      "defMagType": "55d4887d4bdc2d962f8b4570"
     },
     "locales": {
       "en": {

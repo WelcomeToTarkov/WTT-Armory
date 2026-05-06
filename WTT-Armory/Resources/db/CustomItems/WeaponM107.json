@@ -416,6 +416,9 @@
         "path": "WeaponM107/m107_magazine_drum.bundle",
         "rcid": ""
       },
+	  "CheckOverride": 1,
+	  "CheckTimeModifier": 30,
+	  "LoadUnloadModifier": 20,
       "Ergonomics": -3,
       "Weight": 1.96,
       "magAnimationIndex": 1,
@@ -453,9 +456,9 @@
     },
     "locales": {
       "en": {
-        "name": "Fostech Barrett .50 bmg 20-round drum magazine",
-        "shortName": "Fostech 20",
-        "description": "A 20-round .50 bmg drum magazine designed for the Barrett anti-material rifle platform manufactured by Fostech."
+        "name": "M82A1 FosTecH .50 BMG 20-round drum magazine",
+        "shortName": "FosTecH",
+        "description": "A 20-round .50 BMG (12.7x99) drum magazine designed for the Barrett M107/M82 anti-material rifle platform manufactured by FosTecH."
       }
     },
     "addtoInventorySlots": [],
@@ -526,9 +529,9 @@
     },
     "locales": {
       "en": {
-        "name": "Barrett QDL .50 bmg suppressor",
-        "shortName": "QDL S",
-        "description": "Proprietary suppressor manufactured by Barrett designed specifically for the M107A1 .50 bmg anti-material rifle."
+        "name": "M82A1 Barrett QDL .50 BMG sound suppressor",
+        "shortName": "QDL",
+        "description": "Proprietary suppressor manufactured by Barrett designed specifically for the M82A1 .50 BMG anti-material rifle."
       }
     },
     "addtoInventorySlots": [],
@@ -585,7 +588,7 @@
     "locales": {
       "en": {
         "name": "Barrett M107A1 QDL muzzle brake",
-        "shortName": "QDL M",
+        "shortName": "QDL",
         "description": "Standard muzzle brake for the M107A1 .50 bmg anti-material rifle that allows for mounting of the QDL .50 bmg suppressor."
       }
     },
@@ -746,7 +749,7 @@
     },
     "locales": {
       "en": {
-        "name": "Barrett M107A1 20 inch fluted barrel ",
+        "name": "Barrett M107A1 20 inch fluted barrel",
         "shortName": "M107A1 20\"",
         "description": "Shortened 20 inch 1:15\"twist fluted barrel for the Barrett M107A1 .50 bmg anti-material rifle."
       }
