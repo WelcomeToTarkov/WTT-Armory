@@ -11,6 +11,9 @@
       "ExaminedByDefault": true,
       "Width": 6,
       "Height": 2,
+      "RecoilForceBack": 530,
+      "RecoilForceUp": 190,
+      "Ergonomics": 55,
       "Slots": [
         {
           "_id": "69236a4e0a0e3e73f026a715",
