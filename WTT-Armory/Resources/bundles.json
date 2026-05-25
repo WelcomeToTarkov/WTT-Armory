@@ -114,36 +114,36 @@
     {
       "key": "Ammo/patron_11x33r_fmj.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "Ammo/patron_11x33r_jhp.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "Ammo/patron_11x33r_pen.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "Ammo/patron_11x33r_rt.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "Ammo/patron_11x33r_sp.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
@@ -814,35 +814,35 @@
     {
       "key": "WeaponA545/a545_muzzle.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponA545/a545_rear.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponA545/a545_stock.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponA545/weapon_a545_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/systems/effects/smoke.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
@@ -1091,13 +1091,13 @@
     {
       "key": "WeaponAK107/weapon_ak107_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/systems/effects/smoke.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
@@ -2501,145 +2501,145 @@
     {
       "key": "WeaponF2000/f2000_barrel_small.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponF2000/f2000_barrel_standard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponF2000/f2000_frontsight.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_long_barrel.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponF2000/f2000_long_muzzle.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_monolith_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_rail.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_receiver.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_scope.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_scope_cover.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_sight_rear.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_slovenian.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_slovenian_rail.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_slovenian_rear.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_standard_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_standard_muzzle.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/f2000_trirail_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponF2000/weapon_f2000_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
       "key": "WeaponF2000/weapon_f2000_fde_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
@@ -3138,69 +3138,69 @@
     {
       "key": "WeaponM1894DarkTracker/1894_barrel.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_front.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_hammer.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_mag.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_mount.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_rear.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/1894_stock.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponM1894DarkTracker/marlin1894_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
@@ -4098,174 +4098,174 @@
     {
       "key": "WeaponMSBS/msbs_buffer_stock.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_buffer_stock_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_foregrip.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_foregrip_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_long_barrel.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_long_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_long_handguard_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_mag.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_mag_blue.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_mag_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_muzzle.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_pistolgrip.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_pistolgrip_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_receiver.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_receiver_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_silencer.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_standard_barrel.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_standard_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_standard_handguard_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_stock.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/msbs_stock_fde.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponMSBS/weapon_msbs_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
       "key": "WeaponMSBS/weapon_msbs_fde_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
@@ -4881,30 +4881,30 @@
     {
       "key": "WeaponRO991/colt_silenced_barrel.bundle",
       "dependencyKeys": [
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponRO991/colt_silenced_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponRO991/lafrance_barrel.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponRO991/lafrance_handguard.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
@@ -4936,55 +4936,55 @@
     {
       "key": "WeaponRuger57/ruger57_barrel.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders",
-        "assets/systems/effects/smoke.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca"
       ]
     },
     {
       "key": "WeaponRuger57/ruger57_front.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponRuger57/ruger57_mag.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponRuger57/ruger57_mount.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponRuger57/ruger57_rear.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponRuger57/ruger57_slide.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
       "key": "WeaponRuger57/weapon_ruger57_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
@@ -5002,20 +5002,20 @@
     {
       "key": "WeaponSA01/sa01_container.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "shaders",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/systems/effects/smoke.bundle",
-        "assets/content/weapons/additional_hands/client_assets.bundle",
-        "assets/content/audio/blendoptions/assets.bundle"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-5199705506ff9493d3527ced9ad022ec",
+        "cab-56d919bd5479d38f741da52a6beef92f",
+        "cab-8a68447ea041f0b58561cec492246d9e",
+        "cab-8abb9e90ecd3e3f8d513b41b1916b6ca",
+        "cab-b2f2d5fadcc105de0af445e424050483",
+        "cab-ee0c3dea0ba3f30ee3c92f1d20fc561e"
       ]
     },
     {
       "key": "WeaponSA01/sa01_rear.bundle",
       "dependencyKeys": [
-        "cubemaps",
-        "shaders"
+        "cab-4d8a4131cf377709ee7c7e960f65d349",
+        "cab-56d919bd5479d38f741da52a6beef92f"
       ]
     },
     {
@@ -5196,7 +5196,6 @@
       "key": "WeaponUCP/ucp_barrel.bundle",
       "dependencyKeys": [
         "assets/systems/effects/smoke.bundle",
-        "cubemaps",
         "shaders"
       ]
     },
@@ -5204,7 +5203,6 @@
       "key": "WeaponUCP/ucp_barrel_threaded.bundle",
       "dependencyKeys": [
         "assets/systems/effects/smoke.bundle",
-        "cubemaps",
         "shaders"
       ]
     },
