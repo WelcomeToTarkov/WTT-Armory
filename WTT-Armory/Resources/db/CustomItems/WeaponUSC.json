@@ -13,6 +13,7 @@
       "Weight": 1.66,
       "Foldable": false,
       "defMagType": "6958448831c055f568f7c1d3",
+      "CompactHandling": false,
       "weapFireType": [
         "single"
       ],
