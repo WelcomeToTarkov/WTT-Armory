@@ -19,7 +19,7 @@
       "defMagType": "6761b213607f9a6f79017c80",
       "Slots": [
         {
-          "_id": "kacpdwchargeslot",
+          "_id": "6a9d8504c51c7843a6ca8cc5",
           "_mergeSlotWithChildren": false,
           "_name": "mod_charge",
           "_parent": "6761b213607f9a6f79017c7e",
@@ -37,7 +37,7 @@
           "_required": true
         },
         {
-          "_id": "kacpdwstockslot",
+          "_id": "6a9d8507c51c7843a6ca8cc6",
           "_mergeSlotWithChildren": false,
           "_name": "mod_stock",
           "_parent": "6761b213607f9a6f79017c7e",
@@ -54,7 +54,7 @@
           "_required": false
         },
         {
-          "_id": "kacpdwmagslot",
+          "_id": "6a9d8508c51c7843a6ca8cc7",
           "_mergeSlotWithChildren": false,
           "_name": "mod_magazine",
           "_parent": "6761b213607f9a6f79017c7e",
@@ -72,7 +72,7 @@
           "_required": false
         },
         {
-          "_id": "kacpdwupperslot",
+          "_id": "6a9d850ac51c7843a6ca8cc8",
           "_mergeSlotWithChildren": false,
           "_name": "mod_reciever",
           "_parent": "6761b213607f9a6f79017c7e",
@@ -89,7 +89,7 @@
           "_required": true
         },
         {
-          "_id": "kacpdwpistolgripslot",
+          "_id": "6a9d850cc51c7843a6ca8cc9",
           "_mergeSlotWithChildren": false,
           "_name": "mod_pistol_grip",
           "_parent": "6761b213607f9a6f79017c7e",
